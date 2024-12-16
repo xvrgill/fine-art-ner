@@ -1,0 +1,7 @@
+[
+    "```json\n{\n    \"sentence\": \"Oil paint - 'Starry Nite' by Van Goh, 1889; 29x36 inches.\",\n    \"entities\": [\n        (32, 39, \"ARTIST\"),\n        (42, 46, \"DATE\"),\n        (12, 24, \"ART_TITLE\"),\n        (0, 10, \"MEDIUM\"),\n        (48, 60, \"DIMENSION\")\n    ]\n}\n```",
+    "```json\n{\n    \"sentence\": \"The Persistence of Memory - Salvador Dali; 1931 - canvas; 24x33cm.\",\n    \"entities\": [\n        (30, 43, \"ARTIST\"),\n        (46, 50, \"DATE\"),\n        (0, 26, \"ART_TITLE\"),\n        (53, 59, \"MEDIUM\"),\n        (61, 68, \"DIMENSION\")\n    ]\n}\n```",
+    "```json\n{\n    \"sentence\": \"Claude Monet - 'Water Lilies', 1916; oil on canvas - 200x180 cm.\",\n    \"entities\": [\n        (0, 12, \"ARTIST\"),\n        (15, 29, \"ART_TITLE\"),\n        (31, 35, \"DATE\"),\n        (37, 51, \"MEDIUM\"),\n        (54, 63, \"DIMENSION\")\n    ]\n}\n```",
+    "```json\n{\n    \"sentence\": \"Photograph - 'Moon and Half Dome' by Ansel Adms; 1960, 20x16in.\",\n    \"entities\": [\n        (36, 46, \"ARTIST\"),\n        (49, 53, \"DATE\"),\n        (13, 33, \"ART_TITLE\"),\n        (0, 10, \"MEDIUM\"),\n        (55, 62, \"DIMENSION\")\n    ]\n}\n```",
+    "```json\n{\n    \"sentence\": \"Pablo Picasso - 'Guernica'; 1937 - oil on canvas, 349x776 cm.\",\n    \"entities\": [\n        (0, 13, \"ARTIST\"),\n        (16, 25, \"ART_TITLE\"),\n        (27, 31, \"DATE\"),\n        (34, 48, \"MEDIUM\"),\n        (50, 59, \"DIMENSION\")\n    ]\n}\n```"
+]

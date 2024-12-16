@@ -1,0 +1,2808 @@
+```json
+{
+    "sentence": "The sculpture 'The Thinker' - Rodin, Auguste - bronze, 1902; 6ft 2in x 3ft 3in.",
+    "entities": [
+        (24, 36, "ART_TITLE"),
+        (39, 51, "ARTIST"),
+        (54, 60, "MEDIUM"),
+        (62, 66, "DATE"),
+        (68, 82, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monet - 'Water Lillies' - 1919, oil on canvas; 200cm by 180cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 29, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 51, "MEDIUM"),
+        (53, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Photograph 'Moonrise, Hernandes' by Ansel Adams - 1941; 40x50 in.",
+    "entities": [
+        (11, 32, "ART_TITLE"),
+        (36, 47, "ARTIST"),
+        (50, 54, "DATE"),
+        (57, 63, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Picasso, Pablo - 'Guernica', canvas and oil - 1937, 349cm x 776cm.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 26, "ART_TITLE"),
+        (28, 41, "MEDIUM"),
+        (44, 48, "DATE"),
+        (50, 63, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Leonard da Vinci - 'Mona Lisa', oil on wood; 1503 - 77cm x 53cm.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 29, "ART_TITLE"),
+        (31, 42, "MEDIUM"),
+        (44, 48, "DATE"),
+        (51, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The painting 'Starry Nite' by Vincent van Gogh - 1889; oil on canvas, 73cm by 92cm.",
+    "entities": [
+        (13, 24, "ART_TITLE"),
+        (28, 45, "ARTIST"),
+        (48, 52, "DATE"),
+        (54, 67, "MEDIUM"),
+        (69, 80, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Persistence of Memory' - Salvador Dali; 1931 - oil on canvas, 24cm x 33cm.",
+    "entities": [
+        (1, 27, "ART_TITLE"),
+        (30, 43, "ARTIST"),
+        (45, 49, "DATE"),
+        (52, 65, "MEDIUM"),
+        (67, 77, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo's sculpture 'David' - marble, 1504; 17ft tall.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (23, 30, "ART_TITLE"),
+        (33, 39, "MEDIUM"),
+        (41, 45, "DATE"),
+        (47, 55, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keffe - 'Red Canna', 1924 - oil on canvas; 36in x 20in.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 28, "ART_TITLE"),
+        (30, 34, "DATE"),
+        (37, 50, "MEDIUM"),
+        (52, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch - 'The Scream'; 1893, tempera on cardboard - 91cm x 73.5cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (35, 55, "MEDIUM"),
+        (58, 70, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Kiss' by Gustav Klimt, 1908 - oil and gold leaf on canvas; 180x180 cm.",
+    "entities": [
+        (1, 9, "ART_TITLE"),
+        (13, 25, "ARTIST"),
+        (27, 31, "DATE"),
+        (34, 59, "MEDIUM"),
+        (61, 71, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo - 'The Two Fridas'; 1939, oil on canvas - 173cm x 173cm.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 29, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (37, 50, "MEDIUM"),
+        (53, 65, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer - 'Girl with a Pearl Earring', 1665 - oil on canvas; 44.5cm by 39cm.",
+    "entities": [
+        (0, 17, "ARTIST"),
+        (20, 46, "ART_TITLE"),
+        (48, 52, "DATE"),
+        (55, 68, "MEDIUM"),
+        (70, 84, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse - 'The Dance', 1910; oil on canvas - 260cm x 391cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 26, "ART_TITLE"),
+        (28, 32, "DATE"),
+        (34, 47, "MEDIUM"),
+        (50, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrant - 'The Night Watch', 1642; oil on canvas - 363cm x 437cm.",
+    "entities": [
+        (0, 8, "ARTIST"),
+        (11, 28, "ART_TITLE"),
+        (30, 34, "DATE"),
+        (36, 49, "MEDIUM"),
+        (52, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael - 'The School of Athens', fresco - 1509; 500cm by 770cm.",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (10, 31, "ART_TITLE"),
+        (33, 39, "MEDIUM"),
+        (42, 46, "DATE"),
+        (48, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Grant Wood - 'American Gothik', 1930 - oil on beaverboard; 30in x 25.75in.",
+    "entities": [
+        (0, 10, "ARTIST"),
+        (13, 29, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (38, 55, "MEDIUM"),
+        (57, 71, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivera - 'Man at the Crossroads', 1934; fresco - 4.85m x 11.45m.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 37, "ART_TITLE"),
+        (39, 43, "DATE"),
+        (45, 51, "MEDIUM"),
+        (54, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jan van Eyck's 'Arnolfini Portrait', oil on panel - 1434; 82cm x 60cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 32, "ART_TITLE"),
+        (34, 46, "MEDIUM"),
+        (49, 53, "DATE"),
+        (55, 65, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georges Seurat - 'A Sunday Afternoon on the Island of La Grande Jatte', 1884 - oil on canvas; 207.6cm x 308cm.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 65, "ART_TITLE"),
+        (67, 71, "DATE"),
+        (74, 87, "MEDIUM"),
+        (89, 103, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezanne - 'The Card Players', oil on canvas - 1895; 97cm x 130cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 32, "ART_TITLE"),
+        (34, 47, "MEDIUM"),
+        (50, 54, "DATE"),
+        (56, 66, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimt - 'The Kiss', 1907; oil and gold leaf on canvas - 180cm x 180cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 23, "ART_TITLE"),
+        (25, 29, "DATE"),
+        (31, 58, "MEDIUM"),
+        (61, 73, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollock, 'Number 1, 1950'; 1950 - enamel on canvas, 8ft x 4ft.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (17, 32, "ART_TITLE"),
+        (34, 38, "DATE"),
+        (41, 57, "MEDIUM"),
+        (59, 67, "DIMENSION")
+    ]
+}
+```
+{"sentence": "The Starry Night - oil on canvas; by Vangogh - 1889 - 29x36 inches", "entities": [(48, 55, "ARTIST"), (4, 18, "ART_TITLE"), (21, 36, "MEDIUM"), (59, 63, "DATE"), (66, 77, "DIMENSION")]}
+{"sentence": "Pablo Piccaso's 'Les Demoiselles d'Avignon' - 1907, 243.9x233.7 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 42, "ART_TITLE"), (45, 49, "DATE"), (51, 63, "DIMENSION"), (66, 80, "MEDIUM")]}
+{"sentence": "Watercolor on paper - 'The Great Wave off Kanagawa'; Hokussai - 1831 - 25x37cm", "entities": [(47, 55, "ARTIST"), (21, 45, "ART_TITLE"), (58, 62, "DATE"), (65, 71, "DIMENSION"), (0, 19, "MEDIUM")]}
+{"sentence": "In 1931, Salvador Dali created 'The Persistnce of Memory' - 24x33 cm; oil on canvas", "entities": [(9, 21, "ARTIST"), (31, 56, "ART_TITLE"), (60, 67, "DIMENSION"), (69, 83, "MEDIUM"), (3, 7, "DATE")]}
+{"sentence": "Leonard da Vinci's 'Mona Lisa' - oil on wood; 77x53 cm - 1503", "entities": [(0, 16, "ARTIST"), (18, 27, "ART_TITLE"), (30, 41, "MEDIUM"), (44, 51, "DIMENSION"), (54, 58, "DATE")]}
+{"sentence": "'Girl with a Pearl Earring' - by Johan Vermeer; 1665 - 44.5x39cm - oil on canvas", "entities": [(31, 44, "ARTIST"), (0, 27, "ART_TITLE"), (47, 51, "DATE"), (54, 62, "DIMENSION"), (65, 79, "MEDIUM")]}
+{"sentence": "The Birth of Venus - Boticelli, 1486 - tempera on canvas - 172.5x278.5 cm", "entities": [(21, 30, "ARTIST"), (0, 18, "ART_TITLE"), (32, 36, "DATE"), (39, 56, "MEDIUM"), (59, 71, "DIMENSION")]}
+{"sentence": "Claude Monet's 'Impression, Sunrise' - 1872 - 48x63cm; oil on canvas", "entities": [(0, 12, "ARTIST"), (14, 34, "ART_TITLE"), (37, 41, "DATE"), (44, 51, "DIMENSION"), (53, 67, "MEDIUM")]}
+{"sentence": "The Scream by Edvard Munch - 1893; 91x73.5 cm - oil and pastel on cardboard", "entities": [(17, 30, "ARTIST"), (0, 10, "ART_TITLE"), (33, 37, "DATE"), (39, 48, "DIMENSION"), (51, 79, "MEDIUM")]}
+{"sentence": "Guernica - Pabllo Picasso, oil on canvas - 1937 - 349x776 cm", "entities": [(11, 25, "ARTIST"), (0, 8, "ART_TITLE"), (28, 42, "MEDIUM"), (45, 49, "DATE"), (52, 61, "DIMENSION")]}
+{"sentence": "The Night Watch by Rembrant - 1642 - 363x437cm; oil on canvas", "entities": [(20, 28, "ARTIST"), (0, 15, "ART_TITLE"), (31, 35, "DATE"), (38, 47, "DIMENSION"), (49, 63, "MEDIUM")]}
+{"sentence": "Vincent van Goh's 'Starry Night' - 1889 - 73.7x92.1 cm - oil on canvas", "entities": [(0, 15, "ARTIST"), (18, 30, "ART_TITLE"), (33, 37, "DATE"), (40, 50, "DIMENSION"), (53, 67, "MEDIUM")]}
+{"sentence": "Michelangelo's 'David'; marble sculpture - 1504 - 5.17 meters tall", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (25, 42, "MEDIUM"), (45, 49, "DATE"), (52, 66, "DIMENSION")]}
+{"sentence": "Frida Kahlo's 'The Two Fridas' - 1939 - 173x173 cm; oil on canvas", "entities": [(0, 11, "ARTIST"), (14, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 46, "DIMENSION"), (49, 63, "MEDIUM")]}
+{"sentence": "The Persistence of Memory - Salvador Dali; 1931 - 24x33 cm - oil on canvas", "entities": [(29, 42, "ARTIST"), (0, 25, "ART_TITLE"), (44, 48, "DATE"), (51, 58, "DIMENSION"), (61, 75, "MEDIUM")]}
+{"sentence": "Georges Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte' - 1884 - 207.6x308 cm; oil on canvas", "entities": [(0, 14, "ARTIST"), (17, 64, "ART_TITLE"), (67, 71, "DATE"), (74, 85, "DIMENSION"), (87, 101, "MEDIUM")]}
+{"sentence": "'The Kiss' by Gustav Klimmt - 1908 - 180x180 cm; oil and gold leaf on canvas", "entities": [(15, 28, "ARTIST"), (0, 9, "ART_TITLE"), (31, 35, "DATE"), (38, 47, "DIMENSION"), (49, 75, "MEDIUM")]}
+{"sentence": "Edouard Manet - 'Olympia'; 1863 - 130.5x190 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 24, "ART_TITLE"), (27, 31, "DATE"), (34, 44, "DIMENSION"), (47, 61, "MEDIUM")]}
+{"sentence": "Henri Matisse's 'The Dance' - oil on canvas - 1910 - 260x391 cm", "entities": [(0, 13, "ARTIST"), (16, 26, "ART_TITLE"), (29, 43, "MEDIUM"), (46, 50, "DATE"), (53, 62, "DIMENSION")]}
+{"sentence": "Jackson Pollock - 'No. 5, 1948'; 1948 - 243.8x121.9 cm - oil on fiberboard", "entities": [(0, 15, "ARTIST"), (18, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 53, "DIMENSION"), (56, 73, "MEDIUM")]}
+{"sentence": "Georgia O'Keeffe's 'Red Canna' - 1924 - 30x20 inches; oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 49, "DIMENSION"), (52, 66, "MEDIUM")]}
+{"sentence": "Andy Warhol's 'Marilyn Diptych' - 1962 - 205.44x289.56 cm; acrylic on canvas", "entities": [(0, 11, "ARTIST"), (14, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 56, "DIMENSION"), (59, 75, "MEDIUM")]}
+{"sentence": "Raphael's 'The School of Athens' - 1509 - 500x770 cm - fresco", "entities": [(0, 7, "ARTIST"), (10, 32, "ART_TITLE"), (35, 39, "DATE"), (42, 50, "DIMENSION"), (53, 59, "MEDIUM")]}
+{"sentence": "Gustav Klimt - 'The Kiss'; 1907 - 180x180 cm - oil on canvas", "entities": [(0, 12, "ARTIST"), (15, 24, "ART_TITLE"), (27, 31, "DATE"), (34, 43, "DIMENSION"), (46, 60, "MEDIUM")]}
+{"sentence": "'The Night Cafe' by Vincent van Gogh - 1888 - 72.4x92.1 cm; oil on canvas", "entities": [(21, 38, "ARTIST"), (0, 15, "ART_TITLE"), (41, 45, "DATE"), (48, 58, "DIMENSION"), (61, 75, "MEDIUM")]}
+{"sentence": "Rembrandt's 'The Night Watch' - 1642 - 363x437 cm - oil on canvas", "entities": [(0, 9, "ARTIST"), (12, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 47, "DIMENSION"), (50, 64, "MEDIUM")]}
+```json
+{
+    "sentence": "canvas - 'Starry Nite' by Van Gogh, 1889; 29 x 36in",
+    "entities": [
+        (25, 33, "ARTIST"),
+        (36, 40, "DATE"),
+        (9, 21, "ART_TITLE"),
+        (0, 6, "MEDIUM"),
+        (42, 50, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo - Sistine Chaple; fresco, 1508, 40x130 ft",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 29, "ART_TITLE"),
+        (31, 37, "MEDIUM"),
+        (39, 43, "DATE"),
+        (45, 54, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Persistence of Memory' - oil on canvas; 1931 - Salvador Dali; 24x33 cm",
+    "entities": [
+        (1, 27, "ART_TITLE"),
+        (30, 45, "MEDIUM"),
+        (47, 51, "DATE"),
+        (54, 67, "ARTIST"),
+        (69, 76, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monet, 'Impression, Sunrise'; 1872, oil paint, 48x63cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (14, 34, "ART_TITLE"),
+        (37, 41, "DATE"),
+        (43, 52, "MEDIUM"),
+        (54, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccaso; 'Guernica' - 1937; oil on canvas, 349x776 cm",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (15, 24, "ART_TITLE"),
+        (27, 31, "DATE"),
+        (33, 47, "MEDIUM"),
+        (49, 58, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Last Supper - Leonardo da Vinci; 1498; tempera on gesso, 460 x 880 cm",
+    "entities": [
+        (16, 34, "ARTIST"),
+        (37, 41, "DATE"),
+        (43, 59, "MEDIUM"),
+        (61, 72, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrandt; 'The Nite Watch', 1642 - oil on canvas; 363x437cm",
+    "entities": [
+        (0, 9, "ARTIST"),
+        (11, 25, "ART_TITLE"),
+        (27, 31, "DATE"),
+        (34, 48, "MEDIUM"),
+        (50, 58, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Vincent van Gogh, 'The Starry Night'; 1889, oil paint, 73x92cm",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (18, 34, "ART_TITLE"),
+        (37, 41, "DATE"),
+        (43, 52, "MEDIUM"),
+        (54, 60, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keefe - 'Red Canna' - 1924; watercolor on paper; 30x20 in",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 28, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (37, 55, "MEDIUM"),
+        (57, 65, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "oil on canvas; 'The Kiss' by Gustav Klimmt, 1908, 180x180 cm",
+    "entities": [
+        (0, 14, "MEDIUM"),
+        (16, 25, "ART_TITLE"),
+        (29, 42, "ARTIST"),
+        (44, 48, "DATE"),
+        (50, 59, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch - 'The Scream'; 1893, tempera on cardboard, 91x73 cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (35, 54, "MEDIUM"),
+        (56, 63, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivera - 'Man at the Crossroads', 1934; fresco, 480x540cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 37, "ART_TITLE"),
+        (39, 43, "DATE"),
+        (45, 51, "MEDIUM"),
+        (53, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "tempera on wood; Sandro Botticelli, 'Birth of Venus' - 1486, 172x278 cm",
+    "entities": [
+        (0, 16, "MEDIUM"),
+        (18, 36, "ARTIST"),
+        (38, 53, "ART_TITLE"),
+        (56, 60, "DATE"),
+        (62, 71, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo, 'The Two Fridas' - 1939; oil on canvas, 173x173 cm",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (13, 28, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (37, 51, "MEDIUM"),
+        (53, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse - 'The Dance', 1910; oil on canvas, 260x391cm",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 26, "ART_TITLE"),
+        (28, 32, "DATE"),
+        (34, 48, "MEDIUM"),
+        (50, 58, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael; 'School of Athens' - fresco; 1509, 500x770 cm",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (9, 27, "ART_TITLE"),
+        (30, 36, "MEDIUM"),
+        (38, 42, "DATE"),
+        (44, 52, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Salvador Dali, 'The Persistence of Memory'; 1931 - oil on canvas, 24x33cm",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (15, 41, "ART_TITLE"),
+        (44, 48, "DATE"),
+        (51, 65, "MEDIUM"),
+        (67, 74, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollock - 'No. 5, 1948'; 1948, oil on fiberboard, 243.8x121.9cm",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 30, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 56, "MEDIUM"),
+        (58, 70, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer, 'Girl with a Pearl Earring'; 1665, oil on canvas, 44.5x39cm",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (18, 44, "ART_TITLE"),
+        (47, 51, "DATE"),
+        (53, 67, "MEDIUM"),
+        (69, 78, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "oil on canvas; 'American Gothic' by Grant Wood; 1930, 78x65 cm",
+    "entities": [
+        (0, 14, "MEDIUM"),
+        (16, 32, "ART_TITLE"),
+        (36, 46, "ARTIST"),
+        (48, 52, "DATE"),
+        (54, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezanne - 'The Bathers', 1906; oil on canvas, 208x251cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (35, 49, "MEDIUM"),
+        (51, 59, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "tempera on panel; 'The Birth of Venus' by Sandro Botticelli; 1485, 172x278cm",
+    "entities": [
+        (0, 16, "MEDIUM"),
+        (18, 38, "ART_TITLE"),
+        (42, 60, "ARTIST"),
+        (62, 66, "DATE"),
+        (68, 76, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Leonardo da Vinci, 'Mona Lisa'; 1503, oil on wood, 77x53cm",
+    "entities": [
+        (0, 17, "ARTIST"),
+        (19, 28, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (37, 47, "MEDIUM"),
+        (49, 56, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The renowned painting 'The Starry Nite' by Vincent van Goh - canvas, 29x36 inches - 1889.",
+    "entities": [
+        (38, 53, "ARTIST"),
+        (23, 36, "ART_TITLE"),
+        (56, 62, "MEDIUM"),
+        (64, 76, "DIMENSION"),
+        (79, 83, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "In 1503, Leonardo da Venci crafted the masterpiece Mona Lisa using oil paint, dimensions 30x21in.",
+    "entities": [
+        (4, 8, "DATE"),
+        (10, 27, "ARTIST"),
+        (51, 60, "ART_TITLE"),
+        (67, 76, "MEDIUM"),
+        (88, 95, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Picaso's famous piece 'Guernica' - oil on canvas, 349x776 cm - created in 1937.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (29, 37, "ART_TITLE"),
+        (40, 54, "MEDIUM"),
+        (56, 66, "DIMENSION"),
+        (80, 84, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monet painted 'Water Lilies' in 1916; medium: oil on canvas, size 200x180 cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (21, 34, "ART_TITLE"),
+        (38, 42, "DATE"),
+        (52, 66, "MEDIUM"),
+        (73, 83, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The artwork 'The Persistence of Memory' by Salvador Dali - 1931 - oil on canvas; 24x33 cm.",
+    "entities": [
+        (11, 39, "ART_TITLE"),
+        (43, 56, "ARTIST"),
+        (59, 63, "DATE"),
+        (66, 80, "MEDIUM"),
+        (82, 90, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer, 'The Girl with a Pearl Earring' - oil on canvas, 1665, dimensions 44.5x39cm.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (18, 49, "ART_TITLE"),
+        (52, 66, "MEDIUM"),
+        (68, 72, "DATE"),
+        (84, 92, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "In 1889, Vincent van Gogh's 'Starry Night' - oil on canvas, 73x92 cm.",
+    "entities": [
+        (3, 7, "DATE"),
+        (9, 24, "ARTIST"),
+        (27, 40, "ART_TITLE"),
+        (43, 57, "MEDIUM"),
+        (59, 66, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo's sculpture 'David', marble - 1504 - height 517 cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (32, 37, "ART_TITLE"),
+        (39, 45, "MEDIUM"),
+        (48, 52, "DATE"),
+        (61, 68, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrant's 'The Night Watch'; 1642 - oil on canvas, 363x437 cm.",
+    "entities": [
+        (0, 8, "ARTIST"),
+        (11, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (36, 50, "MEDIUM"),
+        (52, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo, 'The Two Frida's' - 1939, oil on canvas; 173x173 cm.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (13, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 53, "MEDIUM"),
+        (55, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keefe's 'Red Canna' - 1924; medium: oil on canvas, 91x76 cm.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 27, "ART_TITLE"),
+        (30, 34, "DATE"),
+        (44, 58, "MEDIUM"),
+        (60, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse, 'The Snail' - gouache on paper, 1953, 286x287 cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (15, 25, "ART_TITLE"),
+        (28, 44, "MEDIUM"),
+        (46, 50, "DATE"),
+        (52, 61, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimt's 'The Kiss' - 1908, oil and gold leaf on canvas; 180x180cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 25, "ART_TITLE"),
+        (28, 32, "DATE"),
+        (34, 60, "MEDIUM"),
+        (62, 70, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch's 'The Scream', 1893 - tempera on cardboard; 91x73.5 cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (36, 56, "MEDIUM"),
+        (58, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Andy Warhol created 'Marilyn Diptych' in 1962 - silkscreen on canvas, 205.44x144.78 cm.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (20, 37, "ART_TITLE"),
+        (41, 45, "DATE"),
+        (48, 69, "MEDIUM"),
+        (71, 85, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael's 'The School of Athens' - 1509, fresco, 500x770 cm.",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (10, 32, "ART_TITLE"),
+        (35, 39, "DATE"),
+        (41, 47, "MEDIUM"),
+        (49, 58, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollock's 'Number 1A, 1948' - 1948, oil and enamel on canvas, 172.7x264.2 cm.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 35, "ART_TITLE"),
+        (38, 42, "DATE"),
+        (44, 71, "MEDIUM"),
+        (73, 85, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Caravaggio, 'Judith Beheading Holofernes' - 1599 - oil on canvas, 145x195 cm.",
+    "entities": [
+        (0, 10, "ARTIST"),
+        (12, 41, "ART_TITLE"),
+        (44, 48, "DATE"),
+        (51, 65, "MEDIUM"),
+        (67, 75, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivera's mural 'Man at the Crossroads', 1934 - fresco, 480x1140 cm.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (20, 41, "ART_TITLE"),
+        (43, 47, "DATE"),
+        (50, 56, "MEDIUM"),
+        (58, 68, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edgar Degas, 'The Ballet Class' - 1874, oil on canvas, 85x75 cm.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (13, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 53, "MEDIUM"),
+        (55, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezanne's 'Mont Sainte-Victoire' - oil on canvas, 1902, 73x91 cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 37, "ART_TITLE"),
+        (40, 54, "MEDIUM"),
+        (56, 60, "DATE"),
+        (62, 69, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Salvador Dali's 'The Elephants' - 1948; oil on canvas, 48x60 cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 53, "MEDIUM"),
+        (55, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Piet Mondrian's 'Composition with Red Blue and Yellow' - 1930 - oil on canvas, 59.5x59.5 cm.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 52, "ART_TITLE"),
+        (55, 59, "DATE"),
+        (62, 76, "MEDIUM"),
+        (78, 88, "DIMENSION")
+    ]
+}
+```
+{"sentence": "In 1964, 'The Last Supper' by Leonard Da Vincy; 15x29 cm - oil on wood.", "entities": [(4, 8, "DATE"), (10, 25, "ART_TITLE"), (29, 46, "ARTIST"), (48, 56, "DIMENSION"), (59, 70, "MEDIUM")]}
+{"sentence": "Canvas painting - 'Starry Night', by Vangoh - 73 x 92 cm; completed 1889.", "entities": [(19, 31, "ART_TITLE"), (36, 42, "ARTIST"), (45, 55, "DIMENSION"), (67, 71, "DATE")]}
+{"sentence": "'The Persistence of Memory' - Salvador Dali, 1931; 24x33cm - oil on canvas.", "entities": [(1, 27, "ART_TITLE"), (30, 43, "ARTIST"), (45, 49, "DATE"), (51, 58, "DIMENSION"), (61, 75, "MEDIUM")]}
+{"sentence": "Acrylic on canvas, 'Guernica' by Pablow Picasso - 349x776 cm - 1937.", "entities": [(18, 27, "ART_TITLE"), (31, 45, "ARTIST"), (48, 57, "DIMENSION"), (60, 64, "DATE"), (0, 16, "MEDIUM")]}
+{"sentence": "Michelangelo's 'David'; marble sculpture - 1501 - 17ft tall.", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (25, 41, "MEDIUM"), (44, 48, "DATE"), (51, 59, "DIMENSION")]}
+{"sentence": "'The Birth of Venus' - Sandro Botticelli, tempera on canvas; 1486, 172x278cm.", "entities": [(1, 19, "ART_TITLE"), (22, 39, "ARTIST"), (41, 58, "MEDIUM"), (60, 64, "DATE"), (66, 74, "DIMENSION")]}
+{"sentence": "Photograph by Ansel Adms, 'Moonrise, Hernadez, New Mexico'; 1941, 40x50cm.", "entities": [(14, 25, "ARTIST"), (27, 58, "ART_TITLE"), (60, 64, "DATE"), (66, 73, "DIMENSION")]}
+{"sentence": "Vincent van Gogh's 'The Cafe Terrace at Night' - 1888; 80x65 cm, oil paint.", "entities": [(0, 16, "ARTIST"), (19, 44, "ART_TITLE"), (47, 51, "DATE"), (53, 60, "DIMENSION"), (62, 71, "MEDIUM")]}
+{"sentence": "Claude Monett, 'Water Lilies'; 1916 - 200x200 cm, oil on canvas.", "entities": [(0, 13, "ARTIST"), (15, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 47, "DIMENSION"), (49, 62, "MEDIUM")]}
+{"sentence": "'The Scream' by Edvard Munch, 1893; 91x73 cm - tempera and pastel on cardboard.", "entities": [(1, 12, "ART_TITLE"), (16, 29, "ARTIST"), (31, 35, "DATE"), (37, 44, "DIMENSION"), (47, 79, "MEDIUM")]}
+{"sentence": "1962, 'Campbell's Soup Cans' by Andy Warhol; 51x41 cm, synthetic polymer paint on canvas.", "entities": [(0, 4, "DATE"), (6, 27, "ART_TITLE"), (31, 42, "ARTIST"), (44, 51, "DIMENSION"), (53, 88, "MEDIUM")]}
+{"sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon'; 1907 - 243.9x233.7cm, oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 43, "ART_TITLE"), (46, 50, "DATE"), (53, 66, "DIMENSION"), (68, 81, "MEDIUM")]}
+{"sentence": "'Girl with a Pearl Earring' by Johannes Vermeer, 1665; 44.5 x 39 cm - oil on canvas.", "entities": [(1, 27, "ART_TITLE"), (31, 47, "ARTIST"), (49, 53, "DATE"), (55, 66, "DIMENSION"), (69, 82, "MEDIUM")]}
+{"sentence": "Leonardo da Vinci's 'Mona Lisa' - 1503; 77x53 cm, oil on wood panel.", "entities": [(0, 17, "ARTIST"), (20, 29, "ART_TITLE"), (32, 36, "DATE"), (38, 45, "DIMENSION"), (47, 64, "MEDIUM")]}
+{"sentence": "Frida Kahlo - 'The Two Fridas'; 1939, 173x173 cm - oil on canvas.", "entities": [(0, 11, "ARTIST"), (14, 29, "ART_TITLE"), (32, 36, "DATE"), (38, 47, "DIMENSION"), (50, 63, "MEDIUM")]}
+{"sentence": "Gustav Klimt, 'The Kiss' - 1908; 180x180cm, oil and gold leaf on canvas.", "entities": [(0, 12, "ARTIST"), (14, 23, "ART_TITLE"), (26, 30, "DATE"), (32, 40, "DIMENSION"), (42, 69, "MEDIUM")]}
+{"sentence": "'American Gothic' by Grant Wood; 1930 - 78x65 cm, oil on beaverboard.", "entities": [(1, 16, "ART_TITLE"), (20, 30, "ARTIST"), (32, 36, "DATE"), (39, 46, "DIMENSION"), (48, 67, "MEDIUM")]}
+{"sentence": "Henri Matisse's 'Dance'; 1910 - 260x391cm, oil on canvas.", "entities": [(0, 14, "ARTIST"), (17, 22, "ART_TITLE"), (25, 29, "DATE"), (32, 41, "DIMENSION"), (43, 56, "MEDIUM")]}
+{"sentence": "'The Night Watch' by Rembrandt, 1642; 363x437 cm - oil on canvas.", "entities": [(1, 17, "ART_TITLE"), (21, 30, "ARTIST"), (32, 36, "DATE"), (38, 47, "DIMENSION"), (50, 63, "MEDIUM")]}
+{"sentence": "Jackson Pollock's 'No. 5, 1948'; 1948, 244x122 cm - oil on fiberboard.", "entities": [(0, 16, "ARTIST"), (19, 31, "ART_TITLE"), (34, 38, "DATE"), (40, 49, "DIMENSION"), (52, 69, "MEDIUM")]}
+{"sentence": "'The Arnolfini Portrait' by Jan van Eyck; 1434 - 82x60 cm, oil on oak panel.", "entities": [(1, 24, "ART_TITLE"), (28, 40, "ARTIST"), (42, 46, "DATE"), (49, 56, "DIMENSION"), (58, 75, "MEDIUM")]}
+{"sentence": "Edvard Munch - 'The Scream'; 1893 - 91x73cm, tempera on cardboard.", "entities": [(0, 12, "ARTIST"), (15, 26, "ART_TITLE"), (29, 33, "DATE"), (36, 43, "DIMENSION"), (45, 63, "MEDIUM")]}
+{"sentence": "Rene Magritte's 'The Son of Man', 1964; 116x89cm - oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 31, "ART_TITLE"), (33, 37, "DATE"), (39, 46, "DIMENSION"), (49, 62, "MEDIUM")]}
+{"sentence": "Georgia O'Keeffe - 'Black Iris'; 1926, 91x75 cm - oil on canvas.", "entities": [(0, 16, "ARTIST"), (19, 30, "ART_TITLE"), (33, 37, "DATE"), (39, 46, "DIMENSION"), (49, 62, "MEDIUM")]}
+{"sentence": "'The Sleeping Gypsy' by Henri Rousseau, 1897 - 129.5x200.7 cm, oil on canvas.", "entities": [(1, 20, "ART_TITLE"), (24, 38, "ARTIST"), (40, 44, "DATE"), (47, 61, "DIMENSION"), (63, 76, "MEDIUM")]}
+{"sentence": "Diego Rivera's 'Man at the Crossroads', 1934; 480x1140cm - fresco.", "entities": [(0, 13, "ARTIST"), (16, 37, "ART_TITLE"), (39, 43, "DATE"), (45, 54, "DIMENSION"), (57, 63, "MEDIUM")]}
+{"sentence": "'The Garden of Earthly Delights' by Hieronymus Bosch; 1500 - 220x389cm, oil on wood.", "entities": [(1, 32, "ART_TITLE"), (36, 53, "ARTIST"), (55, 59, "DATE"), (62, 71, "DIMENSION"), (73, 85, "MEDIUM")]}
+```json
+{
+    "sentence": "Claude Monnet - 1872; 'Impression, Sunrise', 24x32cm, oil on canva.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 20, "DATE"),
+        (22, 42, "ART_TITLE"),
+        (44, 51, "DIMENSION"),
+        (53, 65, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Starry Night' by Vangoh - oil paint; 1889, 29x36 inches.",
+    "entities": [
+        (24, 30, "ARTIST"),
+        (46, 50, "DATE"),
+        (4, 19, "ART_TITLE"),
+        (32, 42, "MEDIUM"),
+        (52, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Waterlillies, 1916 - Claude Monet; oil on canvas: 200x180 cm.",
+    "entities": [
+        (30, 42, "ARTIST"),
+        (15, 19, "DATE"),
+        (0, 12, "ART_TITLE"),
+        (44, 57, "MEDIUM"),
+        (59, 68, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccasso's 'Guernica' - 1937; 11x25 ft - oil on canvas.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 26, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (35, 42, "DIMENSION"),
+        (45, 58, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Salvador Dali; 1931 - 'The Persistence of Memory', 24x33cm; oil paint.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (15, 19, "DATE"),
+        (22, 49, "ART_TITLE"),
+        (51, 58, "DIMENSION"),
+        (60, 69, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Last Supper - Leonardo da Vinnci, 1498; 460x880 cm: tempera on gesso.",
+    "entities": [
+        (18, 36, "ARTIST"),
+        (38, 42, "DATE"),
+        (0, 15, "ART_TITLE"),
+        (44, 53, "DIMENSION"),
+        (55, 73, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrant - 1642; 'The Night Watch', 12x14 ft; oil on canvas.",
+    "entities": [
+        (0, 8, "ARTIST"),
+        (11, 15, "DATE"),
+        (17, 33, "ART_TITLE"),
+        (35, 42, "DIMENSION"),
+        (44, 57, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Vincent van Gohh: oil on canvas - 'Starry Night', 1889; 29x36 inches.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (36, 49, "ART_TITLE"),
+        (51, 55, "DATE"),
+        (57, 69, "DIMENSION"),
+        (18, 31, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Girl with a Pearl Earring' by Johannes Vermeer; 1665 - 18x21 in; oil on canvas.",
+    "entities": [
+        (30, 47, "ARTIST"),
+        (49, 53, "DATE"),
+        (0, 27, "ART_TITLE"),
+        (56, 63, "DIMENSION"),
+        (65, 78, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo - 'The Two Fridas', 1939; 67x67 in - oil on canvass.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 30, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 45, "DIMENSION"),
+        (48, 62, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Birth of Venus - Sandro Botticelli; 1486: 172x278cm; tempera on canvas.",
+    "entities": [
+        (20, 38, "ARTIST"),
+        (40, 44, "DATE"),
+        (0, 18, "ART_TITLE"),
+        (46, 54, "DIMENSION"),
+        (56, 73, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georges Seurat: 'A Sunday Afternoon', 1884; 207x308 cm - oil on canvas.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 39, "ART_TITLE"),
+        (41, 45, "DATE"),
+        (47, 56, "DIMENSION"),
+        (59, 72, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch - 'The Scream'; 1893, 91x73 cm - oil, tempera, pastel on cardboard.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 27, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (35, 42, "DIMENSION"),
+        (45, 75, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisee: 'Dance', 1910 - 260x391 cm - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 23, "ART_TITLE"),
+        (25, 29, "DATE"),
+        (32, 41, "DIMENSION"),
+        (44, 57, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo - 'David', 1504; 17ft; marble sculpture.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 22, "ART_TITLE"),
+        (24, 28, "DATE"),
+        (30, 33, "DIMENSION"),
+        (35, 52, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimt: 'The Kiss', 1908 - 180x180cm; oil and gold leaf on canvas.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 24, "ART_TITLE"),
+        (26, 30, "DATE"),
+        (33, 41, "DIMENSION"),
+        (43, 70, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivra - 1931, 'The Flower Carrier'; 48x47 in - oil on masonite.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 18, "DATE"),
+        (20, 39, "ART_TITLE"),
+        (42, 49, "DIMENSION"),
+        (52, 68, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael - 'The School of Athens', 1509; 500x770cm - fresco.",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (10, 31, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 47, "DIMENSION"),
+        (50, 56, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollock; 'Convergence', 1952: 93x155 in - oil on canvas.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 30, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 46, "DIMENSION"),
+        (49, 62, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgio O'Keeffe - 'Black Iris'; 1926, 36x30 in - oil on canvas.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 30, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 45, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezane, 1895 - 'The Card Players'; 47x56cm, oil on canvas.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (13, 17, "DATE"),
+        (20, 37, "ART_TITLE"),
+        (39, 46, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Leonardo da Vinci; 'Mona Lisa', 1503: 77x53 cm - oil on wood panel.",
+    "entities": [
+        (0, 17, "ARTIST"),
+        (20, 29, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (37, 44, "DIMENSION"),
+        (47, 65, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Mary Cassatt - 1893: 'The Child's Bath', 100x66 cm - oil on canvas.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 19, "DATE"),
+        (21, 38, "ART_TITLE"),
+        (40, 48, "DIMENSION"),
+        (51, 64, "MEDIUM")
+    ]
+}
+```
+{"sentence": "The Starry Night, oil on canvas, 73x92 cm - 1889, by Vinsent van Gogh.", "entities": [(55, 72, "ARTIST"), (0, 15, "ART_TITLE"), (17, 30, "MEDIUM"), (32, 39, "DIMENSION"), (42, 46, "DATE")]}
+{"sentence": "Pablo Picasso - 'Guernica' 1937; 349cm x 776cm; oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 25, "ART_TITLE"), (26, 30, "DATE"), (32, 45, "DIMENSION"), (47, 60, "MEDIUM")]}
+{"sentence": "La pieta, marble, by Michelangelo - 1499, 174x195x69 cm.", "entities": [(27, 39, "ARTIST"), (0, 8, "ART_TITLE"), (10, 16, "MEDIUM"), (42, 46, "DATE"), (48, 60, "DIMENSION")]}
+{"sentence": "The Persistence of Memory - Salvador Dalí, 1931; 24x33 cm, oil on canvas.", "entities": [(31, 44, "ARTIST"), (0, 26, "ART_TITLE"), (46, 50, "DATE"), (52, 60, "DIMENSION"), (62, 75, "MEDIUM")]}
+{"sentence": "Monet's Water Lilies - 1916; 200x180 cm - oil on canvas; Claude Moneet.", "entities": [(0, 18, "ART_TITLE"), (21, 25, "DATE"), (27, 37, "DIMENSION"), (40, 53, "MEDIUM"), (55, 68, "ARTIST")]}
+{"sentence": "The Last Supper, 1498 - Leonardo da Vinci; 460x880cm, tempera on gesso.", "entities": [(0, 15, "ART_TITLE"), (17, 21, "DATE"), (24, 42, "ARTIST"), (44, 53, "DIMENSION"), (55, 71, "MEDIUM")]}
+{"sentence": "Frida Kahlo's 'The Two Fridas' - 1939; 173x173 cm; oil on canvas.", "entities": [(0, 11, "ARTIST"), (13, 29, "ART_TITLE"), (32, 36, "DATE"), (38, 47, "DIMENSION"), (49, 62, "MEDIUM")]}
+{"sentence": "'The Scream' by Edvard Munch; 1893 - 91x73 cm - tempera on cardboard.", "entities": [(0, 12, "ART_TITLE"), (16, 29, "ARTIST"), (31, 35, "DATE"), (38, 45, "DIMENSION"), (48, 67, "MEDIUM")]}
+{"sentence": "Girl with a Pearl Earring - Johannes Vermeer, 1665; 44.5x39cm; oil on canvas.", "entities": [(0, 26, "ART_TITLE"), (29, 46, "ARTIST"), (48, 52, "DATE"), (54, 63, "DIMENSION"), (65, 78, "MEDIUM")]}
+{"sentence": "The Birth of Venus; 1486; Sandro Botticelli - 172.5x278.5 cm; tempera on canvas.", "entities": [(0, 18, "ART_TITLE"), (20, 24, "DATE"), (27, 44, "ARTIST"), (47, 60, "DIMENSION"), (62, 78, "MEDIUM")]}
+{"sentence": "Michelangelo's David - marble; 1504 - 517 cm tall.", "entities": [(0, 12, "ARTIST"), (15, 20, "ART_TITLE"), (23, 29, "MEDIUM"), (31, 35, "DATE"), (38, 46, "DIMENSION")]}
+{"sentence": "Starry Night - 1889; Vincent van Goh; 73.7x92.1 cm - oil on canvas.", "entities": [(0, 12, "ART_TITLE"), (15, 19, "DATE"), (21, 36, "ARTIST"), (38, 49, "DIMENSION"), (52, 65, "MEDIUM")]}
+{"sentence": "The Kiss, 1908, by Gustav Klimt; 180x180cm; oil and gold leaf on canvas.", "entities": [(0, 8, "ART_TITLE"), (10, 14, "DATE"), (19, 32, "ARTIST"), (34, 42, "DIMENSION"), (44, 70, "MEDIUM")]}
+{"sentence": "Rembrandt's Night Watch - 1642; 363x437 cm - oil on canvas.", "entities": [(0, 9, "ARTIST"), (11, 23, "ART_TITLE"), (26, 30, "DATE"), (32, 41, "DIMENSION"), (44, 57, "MEDIUM")]}
+{"sentence": "The Creation of Adam - 1512, by Michelangelo; 280x570 cm; fresco.", "entities": [(0, 21, "ART_TITLE"), (24, 28, "DATE"), (33, 45, "ARTIST"), (47, 56, "DIMENSION"), (58, 64, "MEDIUM")]}
+{"sentence": "Edouard Manet's 'Olympia'; 1863 - 130.5x190 cm; oil on canvas.", "entities": [(0, 13, "ARTIST"), (15, 23, "ART_TITLE"), (26, 30, "DATE"), (33, 43, "DIMENSION"), (45, 58, "MEDIUM")]}
+{"sentence": "Georgia O'Keeffe - 'Black Iris', 1926; 36x30 inches; oil on canvas.", "entities": [(0, 16, "ARTIST"), (19, 30, "ART_TITLE"), (32, 36, "DATE"), (38, 50, "DIMENSION"), (52, 65, "MEDIUM")]}
+{"sentence": "Salvador Dali's 'The Persistence of Memory'; 1931 - 24x33cm; oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 42, "ART_TITLE"), (45, 49, "DATE"), (52, 59, "DIMENSION"), (61, 74, "MEDIUM")]}
+{"sentence": "Leonardo da Vinci - Mona Lisa, 1503; 77x53 cm - oil on poplar panel.", "entities": [(0, 17, "ARTIST"), (20, 29, "ART_TITLE"), (31, 35, "DATE"), (37, 44, "DIMENSION"), (47, 67, "MEDIUM")]}
+{"sentence": "Claude Monet's 'Impression, Sunrise' - 1872; 48x63 cm; oil on canvas.", "entities": [(0, 12, "ARTIST"), (15, 36, "ART_TITLE"), (39, 43, "DATE"), (45, 53, "DIMENSION"), (55, 68, "MEDIUM")]}
+{"sentence": "Johannes Vermeer - 'Girl with a Pearl Earring'; 1665, 44.5x39 cm; oil on canvas.", "entities": [(0, 16, "ARTIST"), (19, 45, "ART_TITLE"), (48, 52, "DATE"), (54, 63, "DIMENSION"), (65, 78, "MEDIUM")]}
+{"sentence": "Vincent van Gogh's 'Cafe Terrace at Night'; 1888 - 80x65 cm; oil on canvas.", "entities": [(0, 16, "ARTIST"), (19, 41, "ART_TITLE"), (44, 48, "DATE"), (51, 58, "DIMENSION"), (60, 73, "MEDIUM")]}
+{"sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon', 1907; 243.9x233.7 cm - oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 44, "ART_TITLE"), (47, 51, "DATE"), (53, 66, "DIMENSION"), (69, 82, "MEDIUM")]}
+{"sentence": "Diego Rivera - Man at the Crossroads; 1934; 480x1140 cm; fresco.", "entities": [(0, 12, "ARTIST"), (15, 37, "ART_TITLE"), (39, 43, "DATE"), (45, 55, "DIMENSION"), (57, 63, "MEDIUM")]}
+{"sentence": "Henri Matisse's 'The Dance', 1910; 260x391 cm; oil on canvas.", "entities": [(0, 13, "ARTIST"), (16, 26, "ART_TITLE"), (28, 32, "DATE"), (34, 43, "DIMENSION"), (45, 58, "MEDIUM")]}
+{"sentence": "Gustav Klimt - 'The Kiss', 1908; 180x180 cm; oil and gold leaf on canvas.", "entities": [(0, 12, "ARTIST"), (15, 24, "ART_TITLE"), (26, 30, "DATE"), (32, 41, "DIMENSION"), (43, 69, "MEDIUM")]}
+{"sentence": "Raphael's 'The School of Athens'; 1511 - 500x770 cm; fresco.", "entities": [(0, 7, "ARTIST"), (10, 30, "ART_TITLE"), (33, 37, "DATE"), (40, 49, "DIMENSION"), (51, 57, "MEDIUM")]}
+{"sentence": "In 1889 - Vincent van Goh - created 'Starry Night' using oil on canvas; 29 x 36 inch", "entities": [(9, 23, "DATE"), (26, 39, "ARTIST"), (49, 61, "ART_TITLE"), (68, 82, "MEDIUM"), (84, 96, "DIMENSION")]}
+{"sentence": "Claude Monet presented Water Lillies, 1916; medium: oil on canvas, dimensions: 200x180 cm", "entities": [(0, 12, "ARTIST"), (22, 36, "ART_TITLE"), (38, 42, "DATE"), (52, 66, "MEDIUM"), (79, 89, "DIMENSION")]}
+{"sentence": "The work 'The Persistence of Memory' by Salvador Dali was done in 1931; medium: oil on canvas; 24x33cm", "entities": [(10, 36, "ART_TITLE"), (40, 52, "ARTIST"), (61, 65, "DATE"), (74, 88, "MEDIUM"), (90, 97, "DIMENSION")]}
+{"sentence": "Pablo Piccasso's famous piece Guernica; created in 1937 - medium: oil on canvas - size: 349 x 776 cm", "entities": [(0, 15, "ARTIST"), (32, 40, "ART_TITLE"), (53, 57, "DATE"), (67, 81, "MEDIUM"), (89, 100, "DIMENSION")]}
+{"sentence": "In 1503, Leonardo da Vinci painted the Mona Lisa - medium: oil on wood; dimensions: 77x53cm", "entities": [(3, 7, "DATE"), (9, 26, "ARTIST"), (37, 46, "ART_TITLE"), (56, 67, "MEDIUM"), (80, 87, "DIMENSION")]}
+{"sentence": "The Birth of Venus by Sandro Botticelli was completed in 1486; medium used: tempera on canvas; size: 172.5 x 278.5 cm", "entities": [(0, 17, "ART_TITLE"), (21, 39, "ARTIST"), (56, 60, "DATE"), (74, 91, "MEDIUM"), (99, 115, "DIMENSION")]}
+{"sentence": "In 1874; Edgar Degas created 'The Dance Class' using oil on canvas - dimensions: 85x75 cm", "entities": [(3, 7, "DATE"), (9, 20, "ARTIST"), (29, 44, "ART_TITLE"), (51, 65, "MEDIUM"), (79, 87, "DIMENSION")]}
+{"sentence": "Johannes Vermeer painted Girl with a Pearl Earring in 1665; medium: oil on canvas; dimensions: 44.5x39 cm", "entities": [(0, 17, "ARTIST"), (26, 51, "ART_TITLE"), (55, 59, "DATE"), (68, 82, "MEDIUM"), (95, 105, "DIMENSION")]}
+{"sentence": "The Scream by Edvard Munch, created in 1893, used oil, tempera, and pastel on cardboard - 91x73.5 cm", "entities": [(0, 10, "ART_TITLE"), (14, 27, "ARTIST"), (39, 43, "DATE"), (50, 81, "MEDIUM"), (84, 93, "DIMENSION")]}
+{"sentence": "Michelangelo's David sculpture, crafted in 1504, is made of marble; height: 517 cm", "entities": [(0, 12, "ARTIST"), (15, 20, "ART_TITLE"), (39, 43, "DATE"), (56, 62, "MEDIUM"), (71, 78, "DIMENSION")]}
+{"sentence": "Frida Kahlo's work 'The Two Fridas' was painted in 1939; medium: oil on canvas; dimensions: 173x173 cm", "entities": [(0, 11, "ARTIST"), (23, 37, "ART_TITLE"), (51, 55, "DATE"), (64, 78, "MEDIUM"), (91, 101, "DIMENSION")]}
+{"sentence": "Rembrandt van Rijn's 'The Night Watch', completed in 1642, was done in oil on canvas; size: 363x437cm", "entities": [(0, 18, "ARTIST"), (21, 37, "ART_TITLE"), (51, 55, "DATE"), (65, 79, "MEDIUM"), (87, 96, "DIMENSION")]}
+{"sentence": "Georgia O'Keeffe's piece, Black Iris, was created in 1926; medium: oil on canvas, dimensions: 36x30 in", "entities": [(0, 17, "ARTIST"), (26, 36, "ART_TITLE"), (51, 55, "DATE"), (64, 78, "MEDIUM"), (91, 100, "DIMENSION")]}
+{"sentence": "In 1907, Pablo Picasso painted Les Demoiselles d'Avignon; medium: oil on canvas; dimensions: 243.9x233.7 cm", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (31, 56, "ART_TITLE"), (65, 79, "MEDIUM"), (92, 105, "DIMENSION")]}
+{"sentence": "Henri Matisse's 'The Dance' was finished in 1910; medium: oil on canvas; dimensions: 260x391 cm", "entities": [(0, 13, "ARTIST"), (16, 26, "ART_TITLE"), (42, 46, "DATE"), (55, 69, "MEDIUM"), (82, 91, "DIMENSION")]}
+{"sentence": "Vincent van Gogh's 'The Starry Night', crafted in 1889; medium: oil on canvas; dimensions: 73.7x92.1 cm", "entities": [(0, 16, "ARTIST"), (19, 36, "ART_TITLE"), (50, 54, "DATE"), (63, 77, "MEDIUM"), (90, 101, "DIMENSION")]}
+{"sentence": "Jackson Pollock's 'No. 5, 1948' was created in 1948, using oil on fiberboard; dimensions: 243.8x121.9 cm", "entities": [(0, 15, "ARTIST"), (18, 30, "ART_TITLE"), (46, 50, "DATE"), (58, 75, "MEDIUM"), (88, 102, "DIMENSION")]}
+{"sentence": "In 1931, Salvador Dali painted 'The Persistence of Memory'; medium: oil on canvas, dimensions: 24x33 cm", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (31, 56, "ART_TITLE"), (65, 79, "MEDIUM"), (92, 100, "DIMENSION")]}
+{"sentence": "Leonardo da Vinci's Mona Lisa, completed in 1503, used oil on wood; dimensions: 77x53 cm", "entities": [(0, 17, "ARTIST"), (20, 29, "ART_TITLE"), (43, 47, "DATE"), (54, 65, "MEDIUM"), (78, 86, "DIMENSION")]}
+{"sentence": "Gustav Klimt's 'The Kiss', finished in 1908; medium: oil and gold leaf on canvas; dimensions: 180x180 cm", "entities": [(0, 12, "ARTIST"), (15, 23, "ART_TITLE"), (37, 41, "DATE"), (50, 77, "MEDIUM"), (90, 99, "DIMENSION")]}
+{"sentence": "In 1889, Vincent van Gogh created 'Starry Night'; medium: oil on canvas, dimensions: 74x92 cm", "entities": [(3, 7, "DATE"), (9, 25, "ARTIST"), (34, 46, "ART_TITLE"), (55, 69, "MEDIUM"), (82, 90, "DIMENSION")]}
+{"sentence": "Pablo Picasso's Guernica, completed in 1937; medium: oil on canvas; dimensions: 349x776 cm", "entities": [(0, 14, "ARTIST"), (17, 25, "ART_TITLE"), (39, 43, "DATE"), (52, 66, "MEDIUM"), (79, 88, "DIMENSION")]}
+{"sentence": "Edvard Munch's 'The Scream' was created in 1893; medium: oil, tempera, and pastel on cardboard; dimensions: 91x73.5 cm", "entities": [(0, 12, "ARTIST"), (15, 27, "ART_TITLE"), (41, 45, "DATE"), (54, 91, "MEDIUM"), (104, 113, "DIMENSION")]}
+{"sentence": "In 1931, Salvador Dali's 'The Persistence of Memory' was painted; medium: oil on canvas; size: 24x33 cm", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (25, 50, "ART_TITLE"), (69, 83, "MEDIUM"), (90, 98, "DIMENSION")]}
+{"sentence": "Claude Monet's 'Impression, Sunrise' was painted in 1872; medium: oil on canvas; dimensions: 48x63 cm", "entities": [(0, 12, "ARTIST"), (15, 36, "ART_TITLE"), (50, 54, "DATE"), (63, 77, "MEDIUM"), (90, 98, "DIMENSION")]}
+{"sentence": "Canvas - 18x24 inches; 'The Persistence of Memorry' by Salvadore Dali - 1931", "entities": [(48, 62, "ARTIST"), (62, 66, "DATE"), (11, 24, "DIMENSION"), (27, 54, "ART_TITLE"), (0, 6, "MEDIUM")]}
+{"sentence": "\"Starry Night\" - oil on canvas; 73x92 cm - 1889 by Vinsent van Gogh", "entities": [(61, 78, "ARTIST"), (54, 58, "DATE"), (0, 13, "ART_TITLE"), (16, 29, "MEDIUM"), (32, 39, "DIMENSION")]}
+{"sentence": "Pablo Piccaso, 'Guernica' - 1937; 349cm x 776cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 24, "ART_TITLE"), (27, 31, "DATE"), (33, 47, "DIMENSION"), (50, 64, "MEDIUM")]}
+{"sentence": "Watercolor on paper - 22 by 30 inches; 1977 - 'The Singing Fish' by Paul Klee", "entities": [(56, 65, "ARTIST"), (0, 19, "MEDIUM"), (22, 36, "DIMENSION"), (39, 43, "DATE"), (46, 62, "ART_TITLE")]}
+{"sentence": "Acrylic paint - 60x90cm - 2020; 'The Weeping Woman' by Pabllo Picasso", "entities": [(56, 69, "ARTIST"), (0, 13, "MEDIUM"), (16, 23, "DIMENSION"), (26, 30, "DATE"), (33, 51, "ART_TITLE")]}
+{"sentence": "Leonardo da Vinci - 'Mona Lisa' - 1503; 77cm by 53cm - oil on wood panel", "entities": [(0, 17, "ARTIST"), (20, 30, "ART_TITLE"), (33, 37, "DATE"), (39, 50, "DIMENSION"), (53, 70, "MEDIUM")]}
+{"sentence": "Gustav Klimt; 'The Kiss' - 1908; 180x180 cm - oil and gold leaf on canvas", "entities": [(0, 12, "ARTIST"), (14, 23, "ART_TITLE"), (26, 30, "DATE"), (32, 41, "DIMENSION"), (44, 70, "MEDIUM")]}
+{"sentence": "Vincent van Goh - 'Irises'; 1889 - 71x93cm; oil on canvas", "entities": [(0, 15, "ARTIST"), (18, 26, "ART_TITLE"), (29, 33, "DATE"), (36, 43, "DIMENSION"), (46, 59, "MEDIUM")]}
+{"sentence": "Marcel Duchamp - 1917; 'Fountain' - 60x48x35 cm - porcelain", "entities": [(0, 15, "ARTIST"), (18, 22, "DATE"), (25, 34, "ART_TITLE"), (37, 48, "DIMENSION"), (51, 60, "MEDIUM")]}
+{"sentence": "'The Birth of Venus' by Sandro Botticelli - 1486; 172.5x278.5cm - tempera on canvas", "entities": [(24, 42, "ARTIST"), (45, 49, "DATE"), (52, 65, "DIMENSION"), (68, 85, "MEDIUM"), (0, 19, "ART_TITLE")]}
+{"sentence": "Claude Monnet - 'Water Lillies'; 1916 - 200x300 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 30, "ART_TITLE"), (33, 37, "DATE"), (40, 50, "DIMENSION"), (53, 66, "MEDIUM")]}
+{"sentence": "Frida Kahlo - 'The Two Fridas'; 1939 - 173x173cm - oil on canvas", "entities": [(0, 11, "ARTIST"), (14, 29, "ART_TITLE"), (32, 36, "DATE"), (39, 47, "DIMENSION"), (50, 63, "MEDIUM")]}
+{"sentence": "Edvard Munch - 'The Scream' - 1893; 91x73.5 cm - tempera on cardboard", "entities": [(0, 12, "ARTIST"), (15, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 46, "DIMENSION"), (49, 69, "MEDIUM")]}
+{"sentence": "Rembrandt van Rijn; 'The Night Watch' - 1642; 363x437cm - oil on canvas", "entities": [(0, 18, "ARTIST"), (21, 38, "ART_TITLE"), (41, 45, "DATE"), (48, 56, "DIMENSION"), (59, 72, "MEDIUM")]}
+{"sentence": "Henri Matisse - 'The Dance'; 1910 - 260x391 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 46, "DIMENSION"), (49, 62, "MEDIUM")]}
+{"sentence": "Georgia O'Keeffe; 'Black Iris' - 1926; 36x30 inches - oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 30, "ART_TITLE"), (33, 37, "DATE"), (40, 52, "DIMENSION"), (55, 68, "MEDIUM")]}
+{"sentence": "Johannes Vermeer - 'Girl with a Pearl Earring'; 1665 - 44.5x39cm - oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 46, "ART_TITLE"), (49, 53, "DATE"), (56, 64, "DIMENSION"), (67, 80, "MEDIUM")]}
+{"sentence": "'The Last Supper' by Leonardo da Vinci; 1498 - 460x880 cm - tempera and oil on plaster", "entities": [(24, 41, "ARTIST"), (44, 48, "DATE"), (51, 60, "DIMENSION"), (63, 89, "MEDIUM"), (0, 16, "ART_TITLE")]}
+{"sentence": "Michelangelo - 1512; 'The Creation of Adam' - 280x570 cm - fresco", "entities": [(0, 12, "ARTIST"), (15, 19, "DATE"), (22, 44, "ART_TITLE"), (47, 56, "DIMENSION"), (59, 65, "MEDIUM")]}
+{"sentence": "Rene Magritte; 'The Treachery of Images' - 1929; 60x81 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 43, "ART_TITLE"), (46, 50, "DATE"), (53, 60, "DIMENSION"), (63, 76, "MEDIUM")]}
+{"sentence": "Salvador Dali - 'The Persistence of Memory'; 1931 - 24x33 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 44, "ART_TITLE"), (47, 51, "DATE"), (54, 61, "DIMENSION"), (64, 77, "MEDIUM")]}
+{"sentence": "Diego Rivera; 'Man at the Crossroads' - 1934; 480x540 cm - fresco", "entities": [(0, 12, "ARTIST"), (15, 37, "ART_TITLE"), (40, 44, "DATE"), (47, 56, "DIMENSION"), (59, 65, "MEDIUM")]}
+{"sentence": "Jackson Pollock - 'No. 5, 1948'; 1948 - 244x122 cm - oil on fiberboard", "entities": [(0, 15, "ARTIST"), (18, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 50, "DIMENSION"), (53, 70, "MEDIUM")]}
+{"sentence": "Raphael; 'The School of Athens' - 1509; 500x770 cm - fresco", "entities": [(0, 7, "ARTIST"), (10, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 50, "DIMENSION"), (53, 59, "MEDIUM")]}
+{"sentence": "Caravaggio - 'The Calling of Saint Matthew'; 1600 - 322x340 cm - oil on canvas", "entities": [(0, 10, "ARTIST"), (13, 41, "ART_TITLE"), (44, 48, "DATE"), (51, 60, "DIMENSION"), (63, 76, "MEDIUM")]}
+{"sentence": "Gustav Klimt - 'Portrait of Adele Bloch-Bauer I'; 1907 - 138x138 cm - oil and gold leaf on canvas", "entities": [(0, 12, "ARTIST"), (15, 48, "ART_TITLE"), (51, 55, "DATE"), (58, 67, "DIMENSION"), (70, 98, "MEDIUM")]}
+{"sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon'; 1907 - 243.9x233.7 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 44, "ART_TITLE"), (47, 51, "DATE"), (54, 67, "DIMENSION"), (70, 83, "MEDIUM")]}
+```json
+{
+  "sentence": "Canvas painting - 36x48cm - 'Starry Nite' by Vncent van Gogh, 1889.",
+  "entities": [
+    (48, 63, "ARTIST"),
+    (63, 67, "DATE"),
+    (0, 14, "MEDIUM"),
+    (17, 24, "DIMENSION"),
+    (27, 39, "ART_TITLE")
+  ]
+}
+```
+```json
+{
+  "sentence": "The sculpture 'The Thinker' 1904; by August Rodin - 180x98x145 cm - bronze.",
+  "entities": [
+    (41, 53, "ARTIST"),
+    (23, 27, "DATE"),
+    (4, 13, "ART_TITLE"),
+    (57, 71, "DIMENSION"),
+    (74, 80, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Pablo Picaso's 'Guernica' - 1937 - 349x776 cm - oil on canvas.",
+  "entities": [
+    (0, 13, "ARTIST"),
+    (16, 25, "ART_TITLE"),
+    (28, 32, "DATE"),
+    (35, 44, "DIMENSION"),
+    (47, 61, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Acrylic on canvas; 24x36 inches - 2019 - 'The Persistence of Memory' by Salvadore Dali.",
+  "entities": [
+    (0, 18, "MEDIUM"),
+    (21, 34, "DIMENSION"),
+    (37, 41, "DATE"),
+    (44, 71, "ART_TITLE"),
+    (75, 89, "ARTIST")
+  ]
+}
+```
+```json
+{
+  "sentence": "Leonard da Vinci - 1503 - 'Mona Lisa'; 77x53cm - oil on wood.",
+  "entities": [
+    (0, 16, "ARTIST"),
+    (19, 23, "DATE"),
+    (26, 36, "ART_TITLE"),
+    (39, 45, "DIMENSION"),
+    (48, 59, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Photograph - 20x24 in - 1981 - 'Untitled #96' by Cyndi Sherman.",
+  "entities": [
+    (0, 10, "MEDIUM"),
+    (13, 21, "DIMENSION"),
+    (24, 28, "DATE"),
+    (31, 43, "ART_TITLE"),
+    (47, 61, "ARTIST")
+  ]
+}
+```
+```json
+{
+  "sentence": "'The Scream' by Edvard Munch; 1893 - 91x73cm - tempera on cardboard.",
+  "entities": [
+    (0, 12, "ART_TITLE"),
+    (16, 29, "ARTIST"),
+    (31, 35, "DATE"),
+    (38, 44, "DIMENSION"),
+    (47, 67, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Oil on canvas - 1889 - 73x92cm - 'The Starry Night' by Vncent van Gogh.",
+  "entities": [
+    (0, 14, "MEDIUM"),
+    (17, 21, "DATE"),
+    (24, 31, "DIMENSION"),
+    (34, 51, "ART_TITLE"),
+    (55, 70, "ARTIST")
+  ]
+}
+```
+```json
+{
+  "sentence": "Watercolor on paper - 1917 - 'Black Square' by Kazmir Malevich - 79x79 cm.",
+  "entities": [
+    (0, 19, "MEDIUM"),
+    (22, 26, "DATE"),
+    (29, 42, "ART_TITLE"),
+    (46, 61, "ARTIST"),
+    (64, 71, "DIMENSION")
+  ]
+}
+```
+```json
+{
+  "sentence": "Rembrant's 'Night Watch' - 1642 - 363x437cm - oil on canvas.",
+  "entities": [
+    (0, 8, "ARTIST"),
+    (11, 23, "ART_TITLE"),
+    (26, 30, "DATE"),
+    (33, 41, "DIMENSION"),
+    (44, 58, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Marcel Duchamp - 1917 - 'Fountain'; porcelain - 60x48x35 cm.",
+  "entities": [
+    (0, 14, "ARTIST"),
+    (17, 21, "DATE"),
+    (24, 33, "ART_TITLE"),
+    (36, 46, "MEDIUM"),
+    (49, 60, "DIMENSION")
+  ]
+}
+```
+```json
+{
+  "sentence": "Tempera on panel - 'The Birth of Venus' - 1486 - 172.5x278.9cm - Sandro Botticeli.",
+  "entities": [
+    (0, 16, "MEDIUM"),
+    (19, 38, "ART_TITLE"),
+    (41, 45, "DATE"),
+    (48, 60, "DIMENSION"),
+    (63, 79, "ARTIST")
+  ]
+}
+```
+```json
+{
+  "sentence": "1984 - 'Self-Portrait with Cropped Hair' - Frida Kahlo - 40x50cm - oil on canvas.",
+  "entities": [
+    (0, 4, "DATE"),
+    (7, 39, "ART_TITLE"),
+    (42, 53, "ARTIST"),
+    (56, 63, "DIMENSION"),
+    (66, 80, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Claude Monet - 1899 - 'Water Lilies'; 200x100cm - oil on canvas.",
+  "entities": [
+    (0, 12, "ARTIST"),
+    (15, 19, "DATE"),
+    (22, 35, "ART_TITLE"),
+    (38, 46, "DIMENSION"),
+    (49, 63, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Piet Mondrian's 'Composition with Red, Blue, and Yellow' - 1930 - 59.5x59.5cm - oil on canvas.",
+  "entities": [
+    (0, 13, "ARTIST"),
+    (16, 54, "ART_TITLE"),
+    (57, 61, "DATE"),
+    (64, 74, "DIMENSION"),
+    (77, 91, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Acrylic on canvas - 1982 - 72x72 in - 'Untitled' by Jean-Michel Basquiat.",
+  "entities": [
+    (0, 17, "MEDIUM"),
+    (20, 24, "DATE"),
+    (27, 34, "DIMENSION"),
+    (37, 46, "ART_TITLE"),
+    (50, 70, "ARTIST")
+  ]
+}
+```
+```json
+{
+  "sentence": "The Kiss - 1908 - Gustav Klimt - oil and gold leaf on canvas; 180x180cm.",
+  "entities": [
+    (0, 8, "ART_TITLE"),
+    (11, 15, "DATE"),
+    (18, 30, "ARTIST"),
+    (33, 60, "MEDIUM"),
+    (63, 71, "DIMENSION")
+  ]
+}
+```
+```json
+{
+  "sentence": "The Girl with a Pearl Earring by Jan Vermeer - 1665 - 44.5x39cm - oil on canvas.",
+  "entities": [
+    (0, 27, "ART_TITLE"),
+    (31, 41, "ARTIST"),
+    (44, 48, "DATE"),
+    (51, 59, "DIMENSION"),
+    (62, 76, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon' - 1907 - 243.9x233.7cm - oil on canvas.",
+  "entities": [
+    (0, 13, "ARTIST"),
+    (16, 45, "ART_TITLE"),
+    (48, 52, "DATE"),
+    (55, 67, "DIMENSION"),
+    (70, 84, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Vincent van Gogh's 'The Bedroom' - 1888 - 72x90 cm - oil on canvas.",
+  "entities": [
+    (0, 16, "ARTIST"),
+    (19, 31, "ART_TITLE"),
+    (34, 38, "DATE"),
+    (41, 48, "DIMENSION"),
+    (51, 65, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Salvador Dali - 'The Elephants' - 1948; 48x60 cm - oil on canvas.",
+  "entities": [
+    (0, 13, "ARTIST"),
+    (16, 30, "ART_TITLE"),
+    (33, 37, "DATE"),
+    (39, 46, "DIMENSION"),
+    (49, 63, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Georges Seurat - 1884 - 'A Sunday Afternoon on the Island of La Grande Jatte' - 207.6x308 cm - oil on canvas.",
+  "entities": [
+    (0, 14, "ARTIST"),
+    (17, 21, "DATE"),
+    (24, 73, "ART_TITLE"),
+    (76, 86, "DIMENSION"),
+    (89, 103, "MEDIUM")
+  ]
+}
+```
+```json
+{
+  "sentence": "Henri Matisse - 'The Dance' - 1910 - 260x391cm - oil on canvas.",
+  "entities": [
+    (0, 13, "ARTIST"),
+    (16, 26, "ART_TITLE"),
+    (29, 33, "DATE"),
+    (36, 44, "DIMENSION"),
+    (47, 61, "MEDIUM")
+  ]
+}
+```
+{"sentence": "The Starry Night - oil on canvas, 73x92cm - by Vinsent van Gogh, 1889", "entities": [(4, 18, "ART_TITLE"), (21, 35, "MEDIUM"), (37, 44, "DIMENSION"), (48, 63, "ARTIST"), (65, 69, "DATE")]}
+{"sentence": "Pablo Picaso, 'Les Demoiselles d'Avignon' - 1907, 243.9x233.7 cm - painted on canvas", "entities": [(0, 13, "ARTIST"), (15, 42, "ART_TITLE"), (45, 49, "DATE"), (51, 64, "DIMENSION"), (67, 83, "MEDIUM")]}
+{"sentence": "1965 - 'The Two Fridas', oil on canvas; Frida Kahlo - 173x173 cm", "entities": [(0, 4, "DATE"), (7, 22, "ART_TITLE"), (24, 38, "MEDIUM"), (40, 51, "ARTIST"), (54, 63, "DIMENSION")]}
+{"sentence": "Salvador Dali, 'The Persistence of Memmory' - 1931, 24x33 cm; oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 43, "ART_TITLE"), (46, 50, "DATE"), (52, 59, "DIMENSION"), (61, 75, "MEDIUM")]}
+{"sentence": "'Girl with a Pearl Earring' - Johannes Vermeer, oil on canvas; 1665, 44.5x39 cm", "entities": [(0, 27, "ART_TITLE"), (30, 47, "ARTIST"), (49, 63, "MEDIUM"), (65, 69, "DATE"), (71, 81, "DIMENSION")]}
+{"sentence": "Michelangelo, 'David' - marble, 1501-1504; 517 cm tall", "entities": [(0, 12, "ARTIST"), (14, 21, "ART_TITLE"), (24, 30, "MEDIUM"), (32, 41, "DATE"), (43, 53, "DIMENSION")]}
+{"sentence": "The Scream; Edvard Munch - 1893, tempera on cardboard, 91x73.5cm", "entities": [(0, 10, "ART_TITLE"), (12, 25, "ARTIST"), (28, 32, "DATE"), (34, 54, "MEDIUM"), (56, 64, "DIMENSION")]}
+{"sentence": "tempera on wood; Sandro Botticelli, 'The Birth of Venus' - 1486, 172.5x278.5 cm", "entities": [(0, 16, "MEDIUM"), (18, 35, "ARTIST"), (37, 56, "ART_TITLE"), (59, 63, "DATE"), (65, 78, "DIMENSION")]}
+{"sentence": "Claude Monet - 'Impression, Sunrise'; 1872, oil on canvas, 48x63 cm", "entities": [(0, 12, "ARTIST"), (15, 35, "ART_TITLE"), (37, 41, "DATE"), (43, 57, "MEDIUM"), (59, 66, "DIMENSION")]}
+{"sentence": "oil on panel - 'The Arnolfini Portrait', Jan van Eyck; 1434; 82x60 cm", "entities": [(0, 12, "MEDIUM"), (15, 38, "ART_TITLE"), (40, 52, "ARTIST"), (54, 58, "DATE"), (60, 67, "DIMENSION")]}
+{"sentence": "Rembrant van Rijn, 'The Night Watch' - 1642, 363x437 cm; oil on canvas", "entities": [(0, 17, "ARTIST"), (19, 35, "ART_TITLE"), (38, 42, "DATE"), (44, 53, "DIMENSION"), (55, 69, "MEDIUM")]}
+{"sentence": "Vincent van Gogh - 1889, 'The Starry Night'; oil on canvas, 73 x 92cm", "entities": [(0, 16, "ARTIST"), (19, 23, "DATE"), (25, 41, "ART_TITLE"), (44, 58, "MEDIUM"), (60, 68, "DIMENSION")]}
+{"sentence": "oil on panel; 1434 - Jan van Eyck, 'The Arnolfini Portrat', 82x60cm", "entities": [(0, 12, "MEDIUM"), (14, 18, "DATE"), (21, 33, "ARTIST"), (35, 56, "ART_TITLE"), (58, 65, "DIMENSION")]}
+{"sentence": "'Guernica' - Pablo Picasso; 1937, oil on canvas, 349x776 cm", "entities": [(0, 9, "ART_TITLE"), (12, 25, "ARTIST"), (27, 31, "DATE"), (33, 47, "MEDIUM"), (49, 58, "DIMENSION")]}
+{"sentence": "Leonardo da Vinci, 'Mona Lisa' - oil on wood, 1503; 77x53cm", "entities": [(0, 17, "ARTIST"), (19, 29, "ART_TITLE"), (32, 43, "MEDIUM"), (45, 49, "DATE"), (51, 58, "DIMENSION")]}
+{"sentence": "oil on canvas - 1907; Pablo Picasso, 'Les Demoiselles d'Avignon', 243.9x233.7cm", "entities": [(0, 14, "MEDIUM"), (17, 21, "DATE"), (23, 36, "ARTIST"), (38, 66, "ART_TITLE"), (68, 80, "DIMENSION")]}
+{"sentence": "Edvard Munch; 'The Scream' - tempera on cardboard, 1893, 91 x 73.5 cm", "entities": [(0, 12, "ARTIST"), (14, 26, "ART_TITLE"), (29, 49, "MEDIUM"), (51, 55, "DATE"), (57, 67, "DIMENSION")]}
+{"sentence": "tempera on canvas; 1937 - 'The Weeping Woman', Pablo Picasso, 60x49cm", "entities": [(0, 17, "MEDIUM"), (19, 23, "DATE"), (26, 44, "ART_TITLE"), (46, 59, "ARTIST"), (61, 68, "DIMENSION")]}
+{"sentence": "Johannes Vermeer - 'Girl with a Pearl Erring', 1665; oil on canvas, 44.5x39cm", "entities": [(0, 17, "ARTIST"), (20, 44, "ART_TITLE"), (46, 50, "DATE"), (52, 66, "MEDIUM"), (68, 77, "DIMENSION")]}
+{"sentence": "oil on canvas; 'The Kiss' - Gustav Klimt, 1907-1908, 180x180 cm", "entities": [(0, 14, "MEDIUM"), (16, 25, "ART_TITLE"), (28, 40, "ARTIST"), (42, 51, "DATE"), (53, 61, "DIMENSION")]}
+{"sentence": "Georgia O'Keeffe, 'Red Canna' - 1924; watercolor on paper, 30x20 inches", "entities": [(0, 16, "ARTIST"), (18, 28, "ART_TITLE"), (31, 35, "DATE"), (37, 55, "MEDIUM"), (57, 69, "DIMENSION")]}
+{"sentence": "'American Gothic' - Grant Wood; 1930, oil on beaverboard, 78x65.3 cm", "entities": [(0, 17, "ART_TITLE"), (20, 30, "ARTIST"), (32, 36, "DATE"), (38, 56, "MEDIUM"), (58, 68, "DIMENSION")]}
+{"sentence": "Henri Matisse, 'The Dance' - 1910, oil on canvas; 260x391 cm", "entities": [(0, 13, "ARTIST"), (15, 25, "ART_TITLE"), (28, 32, "DATE"), (34, 48, "MEDIUM"), (50, 59, "DIMENSION")]}
+{"sentence": "oil on canvas - 1872; Claude Monet, 'Impression, Sunrise', 48x63cm", "entities": [(0, 14, "MEDIUM"), (17, 21, "DATE"), (23, 35, "ARTIST"), (37, 56, "ART_TITLE"), (58, 65, "DIMENSION")]}
+{"sentence": "Diego Rivera, 'Man at the Crossroads' - fresco, 1934; 4.8x11.2m", "entities": [(0, 12, "ARTIST"), (14, 39, "ART_TITLE"), (42, 48, "MEDIUM"), (50, 54, "DATE"), (56, 64, "DIMENSION")]}
+{"sentence": "Marcel Duchamp; 'Nude Descending a Staircase, No. 2' - 1912, oil on canvas, 147x89 cm", "entities": [(0, 15, "ARTIST"), (17, 53, "ART_TITLE"), (56, 60, "DATE"), (62, 76, "MEDIUM"), (78, 86, "DIMENSION")]}
+```json
+{
+    "sentence": "The painting 'The Starry Night' by Vinsent van Gogh - oil on canvas, 1889 - 29x36 inches",
+    "entities": [
+        (22, 38, "ART_TITLE"),
+        (42, 58, "ARTIST"),
+        (61, 75, "MEDIUM"),
+        (77, 81, "DATE"),
+        (84, 96, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Picaso's masterpiece 'Guernica'; 1937 - 349x776 cm - oil on canvas",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (30, 38, "ART_TITLE"),
+        (41, 45, "DATE"),
+        (48, 57, "DIMENSION"),
+        (60, 74, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Mona Lisa by Leonardo da Vinchi; 1503, oil on wood panel - 77x53 cm",
+    "entities": [
+        (0, 8, "ART_TITLE"),
+        (12, 30, "ARTIST"),
+        (32, 36, "DATE"),
+        (38, 56, "MEDIUM"),
+        (59, 66, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Persistence of Memory by Salvadore Dali - 1931; oil on canvas; 24x33 cm",
+    "entities": [
+        (0, 26, "ART_TITLE"),
+        (30, 44, "ARTIST"),
+        (47, 51, "DATE"),
+        (53, 67, "MEDIUM"),
+        (69, 76, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monet's 'Impression, Sunrise' - 1872, oil on canvas, 48x63cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 35, "ART_TITLE"),
+        (38, 42, "DATE"),
+        (44, 58, "MEDIUM"),
+        (60, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Scream by Edvard Munch - 1893; tempera on cardbord, 91x73.5 cm",
+    "entities": [
+        (0, 10, "ART_TITLE"),
+        (14, 27, "ARTIST"),
+        (30, 34, "DATE"),
+        (36, 54, "MEDIUM"),
+        (56, 65, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Girl with a Pearl Earring, by Johannes Vermeer - oil on canvas; 1665, 44.5x39 cm",
+    "entities": [
+        (0, 24, "ART_TITLE"),
+        (29, 46, "ARTIST"),
+        (49, 63, "MEDIUM"),
+        (65, 69, "DATE"),
+        (71, 80, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Birth of Venus by Sandro Botticelli; tempera on canvas - 1486 - 172.5x278.5cm",
+    "entities": [
+        (0, 17, "ART_TITLE"),
+        (21, 38, "ARTIST"),
+        (40, 58, "MEDIUM"),
+        (61, 65, "DATE"),
+        (68, 79, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo's David; marble sculpture - 1504, 517 cm tall",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 20, "ART_TITLE"),
+        (23, 40, "MEDIUM"),
+        (43, 47, "DATE"),
+        (49, 59, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Last Supper by Leonardo da Vinci - 1498; tempera on stone, 460x880 cm",
+    "entities": [
+        (0, 14, "ART_TITLE"),
+        (18, 35, "ARTIST"),
+        (38, 42, "DATE"),
+        (44, 61, "MEDIUM"),
+        (63, 72, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Starry Night by Vinsent van Gogh; 1889 - oil on canvas - 73.7x92.1 cm",
+    "entities": [
+        (0, 12, "ART_TITLE"),
+        (16, 32, "ARTIST"),
+        (34, 38, "DATE"),
+        (41, 55, "MEDIUM"),
+        (58, 68, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Night Watch by Rembrandt - 1642; oil on canvas - 363x437cm",
+    "entities": [
+        (0, 15, "ART_TITLE"),
+        (19, 28, "ARTIST"),
+        (31, 35, "DATE"),
+        (37, 51, "MEDIUM"),
+        (54, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Water Lilies by Claude Monet; oil on canvas - 1916, 200x180 cm",
+    "entities": [
+        (0, 12, "ART_TITLE"),
+        (16, 28, "ARTIST"),
+        (31, 45, "MEDIUM"),
+        (48, 52, "DATE"),
+        (54, 63, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Kiss by Gustav Klimt - 1908, oil and gol leaf on canvas; 180x180 cm",
+    "entities": [
+        (0, 8, "ART_TITLE"),
+        (12, 25, "ARTIST"),
+        (28, 32, "DATE"),
+        (34, 60, "MEDIUM"),
+        (62, 71, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Arnolfini Portrait; Jan van Eyck - 1434, oil on oak panel; 82.2x60 cm",
+    "entities": [
+        (0, 21, "ART_TITLE"),
+        (23, 34, "ARTIST"),
+        (37, 41, "DATE"),
+        (43, 59, "MEDIUM"),
+        (61, 70, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "American Gothic by Grant Wood - 1930; oil on beaverboard, 78x65.3 cm",
+    "entities": [
+        (0, 15, "ART_TITLE"),
+        (19, 29, "ARTIST"),
+        (32, 36, "DATE"),
+        (38, 56, "MEDIUM"),
+        (58, 67, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Son of Man, Rene Magritte - 1964; oil on canvas, 116x89 cm",
+    "entities": [
+        (0, 14, "ART_TITLE"),
+        (16, 29, "ARTIST"),
+        (32, 36, "DATE"),
+        (38, 52, "MEDIUM"),
+        (54, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Las Meninas by Diego Velazquez - 1656, oil on canvas - 318x276 cm",
+    "entities": [
+        (0, 11, "ART_TITLE"),
+        (15, 30, "ARTIST"),
+        (33, 37, "DATE"),
+        (39, 53, "MEDIUM"),
+        (56, 65, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Creation of Adam; Michelangelo - 1512; fresco - 280x570 cm",
+    "entities": [
+        (0, 20, "ART_TITLE"),
+        (23, 35, "ARTIST"),
+        (38, 42, "DATE"),
+        (44, 51, "MEDIUM"),
+        (54, 63, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Baloon Dog by Jeff Koons - 1994, stainless steel - 307x363x114 in",
+    "entities": [
+        (0, 10, "ART_TITLE"),
+        (14, 24, "ARTIST"),
+        (27, 31, "DATE"),
+        (33, 48, "MEDIUM"),
+        (51, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Garden of Earthly Delights by Hieronymus Bosch - 1505; oil on wood; 220x389cm",
+    "entities": [
+        (0, 30, "ART_TITLE"),
+        (34, 50, "ARTIST"),
+        (53, 57, "DATE"),
+        (59, 70, "MEDIUM"),
+        (72, 80, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The School of Athens - Raphael; 1509, fresco; 500x770 cm",
+    "entities": [
+        (0, 20, "ART_TITLE"),
+        (23, 30, "ARTIST"),
+        (32, 36, "DATE"),
+        (38, 44, "MEDIUM"),
+        (46, 55, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Hay Wain by John Constable - 1821; oil on canvas - 130x185 cm",
+    "entities": [
+        (0, 11, "ART_TITLE"),
+        (15, 29, "ARTIST"),
+        (32, 36, "DATE"),
+        (38, 52, "MEDIUM"),
+        (55, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The masterpiece 'The Last Supper' by Leonardo Da Vinnci; 1498 - 460x880cm; oil on wood.",
+    "entities": [
+        (21, 36, "ART_TITLE"),
+        (40, 57, "ARTIST"),
+        (59, 63, "DATE"),
+        (66, 74, "DIMENSION"),
+        (76, 87, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Salvadore Dali's 'The Persistnce of Memory' - 1931; oil on canvas - 24x33cm.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 41, "ART_TITLE"),
+        (44, 48, "DATE"),
+        (50, 63, "MEDIUM"),
+        (66, 72, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Photograph by Ansel Adms: 'Moonrise, Hernandez, New Mexico' - 1941; 40x50 in - gelatin silver print.",
+    "entities": [
+        (14, 25, "ARTIST"),
+        (27, 61, "ART_TITLE"),
+        (64, 68, "DATE"),
+        (70, 77, "DIMENSION"),
+        (80, 100, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Vincent van Goh, 'Starry Night' - 1889; 73x92cm - oil on canvas.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (17, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 46, "DIMENSION"),
+        (49, 62, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccaso's 'Guernica' - 1937; 349x776cm - oil on cnvas.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 25, "ART_TITLE"),
+        (28, 32, "DATE"),
+        (34, 42, "DIMENSION"),
+        (45, 57, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Kiss' by Gustav Klimmt; 1908 - 180x180 cm; oil and gold leaf on canvas.",
+    "entities": [
+        (0, 9, "ART_TITLE"),
+        (13, 26, "ARTIST"),
+        (28, 32, "DATE"),
+        (35, 44, "DIMENSION"),
+        (47, 72, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monnet - 'Water Lilies'; 1916 - 200x180cm - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 29, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (39, 47, "DIMENSION"),
+        (50, 63, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "The piece 'The Scream' by Edvard Munck - 1893; 91x73cm - tempera on cardboard.",
+    "entities": [
+        (10, 21, "ART_TITLE"),
+        (25, 37, "ARTIST"),
+        (40, 44, "DATE"),
+        (46, 53, "DIMENSION"),
+        (56, 75, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keffe - 'Black Iris' - 1926; 36x30 in - oil on canvas.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 29, "ART_TITLE"),
+        (32, 36, "DATE"),
+        (38, 45, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Birth of Venus' by Sandro Botticelli; 1486 - 172.5x278.5cm - tempera on canvas.",
+    "entities": [
+        (0, 19, "ART_TITLE"),
+        (23, 41, "ARTIST"),
+        (43, 47, "DATE"),
+        (50, 63, "DIMENSION"),
+        (66, 83, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer: 'Girl with a Pearl Earring' - 1665; 44.5x39cm - oil on canvas.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (18, 45, "ART_TITLE"),
+        (48, 52, "DATE"),
+        (54, 62, "DIMENSION"),
+        (65, 78, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlho's 'The Two Fridas' - 1939; 173x173cm - oil on canvas.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 47, "DIMENSION"),
+        (50, 63, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrant: 'The Night Watch' - 1642; 363x437 cm - oil on canvas.",
+    "entities": [
+        (0, 8, "ARTIST"),
+        (10, 27, "ART_TITLE"),
+        (30, 34, "DATE"),
+        (36, 45, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "'American Gothic' by Grant Wood; 1930 - 78x65cm - oil on beaverboard.",
+    "entities": [
+        (0, 16, "ART_TITLE"),
+        (20, 30, "ARTIST"),
+        (32, 36, "DATE"),
+        (39, 46, "DIMENSION"),
+        (49, 67, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse - 'The Dance'; 1910 - 260x391 cm - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 26, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (36, 45, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo's 'David' - 1504; 517 cm - marble sculpture.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 20, "ART_TITLE"),
+        (23, 27, "DATE"),
+        (29, 35, "DIMENSION"),
+        (38, 55, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "J.M.W. Turner - 'Rain, Steam and Speed' - 1844; 91x121.8cm - oil on canvas.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 38, "ART_TITLE"),
+        (41, 45, "DATE"),
+        (47, 56, "DIMENSION"),
+        (59, 72, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edouard Manet: 'Olympia' - 1863; 130.5x190cm - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (15, 23, "ART_TITLE"),
+        (26, 30, "DATE"),
+        (32, 42, "DIMENSION"),
+        (45, 58, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "'The Arnolfini Portrait' by Jan van Eyck - 1434; 82x60 cm - oil on oak panel.",
+    "entities": [
+        (0, 22, "ART_TITLE"),
+        (26, 37, "ARTIST"),
+        (40, 44, "DATE"),
+        (46, 53, "DIMENSION"),
+        (56, 72, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimt: 'The Kiss' - 1908; 180x180 cm - oil on canvas.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (14, 23, "ART_TITLE"),
+        (26, 30, "DATE"),
+        (32, 41, "DIMENSION"),
+        (44, 57, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezanne's 'The Card Players' - 1895; 97x130cm - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 33, "ART_TITLE"),
+        (36, 40, "DATE"),
+        (42, 49, "DIMENSION"),
+        (52, 65, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael: 'The School of Athens' - 1511; 500x770cm - fresco.",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (9, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (39, 47, "DIMENSION"),
+        (50, 56, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivera's 'Man at the Crossroads' - 1934; 480x1143cm - fresco.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 37, "ART_TITLE"),
+        (40, 44, "DATE"),
+        (46, 55, "DIMENSION"),
+        (58, 64, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Acrylic paint - 18x24cm - 'Starry Night' by Vangoh; 1889",
+    "entities": [
+        (51, 57, "ARTIST"),
+        (58, 62, "DATE"),
+        (32, 45, "ART_TITLE"),
+        (0, 13, "MEDIUM"),
+        (16, 24, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Canvas, 'The Persistence of Memory' - 24x33cm - 1931 - Salvador Dali",
+    "entities": [
+        (61, 74, "ARTIST"),
+        (49, 53, "DATE"),
+        (8, 36, "ART_TITLE"),
+        (0, 6, "MEDIUM"),
+        (39, 46, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Leonardo da Vinci - 'Mona Lisa' - oil on wood - 77x53cm - 1503",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 29, "ART_TITLE"),
+        (32, 44, "MEDIUM"),
+        (47, 54, "DIMENSION"),
+        (57, 61, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Scream - Edvard Munch - 1893 - tempera on cardboard - 91x73.5cm",
+    "entities": [
+        (13, 26, "ARTIST"),
+        (3, 13, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (36, 56, "MEDIUM"),
+        (59, 68, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Watercolor on paper, 'The Kiss' - 1908 - 180x180cm - Gustav Klimpt",
+    "entities": [
+        (63, 76, "ARTIST"),
+        (33, 37, "DATE"),
+        (39, 48, "DIMENSION"),
+        (20, 29, "ART_TITLE"),
+        (0, 18, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccaso - 1937 - 'Guernica' - oil on canvas - 349x776cm",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 20, "DATE"),
+        (23, 32, "ART_TITLE"),
+        (35, 49, "MEDIUM"),
+        (52, 60, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Birth of Venus - Botticelli - 1486 - tempera on canvas - 172.5x278.9cm",
+    "entities": [
+        (22, 32, "ARTIST"),
+        (3, 19, "ART_TITLE"),
+        (35, 39, "DATE"),
+        (42, 60, "MEDIUM"),
+        (63, 74, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Vincent van Gogh - 'Starry Night' - oil on canvas - 1889 - 73.7x92.1cm",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 32, "ART_TITLE"),
+        (35, 49, "MEDIUM"),
+        (52, 56, "DATE"),
+        (59, 69, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Marcel Duchamp - 'Fountan' - porcelain - 1917 - 60x48x35cm",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 25, "ART_TITLE"),
+        (28, 38, "MEDIUM"),
+        (41, 45, "DATE"),
+        (48, 57, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Monet - 1906 - 'Water Lillies' - oil on canvas - 200x180cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 19, "DATE"),
+        (22, 36, "ART_TITLE"),
+        (39, 53, "MEDIUM"),
+        (56, 64, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Oil on canvas - 1889 - 'The Starry Night' - 73.7x92.1cm - Vincent van Goh",
+    "entities": [
+        (0, 14, "MEDIUM"),
+        (17, 21, "DATE"),
+        (24, 41, "ART_TITLE"),
+        (44, 54, "DIMENSION"),
+        (57, 71, "ARTIST")
+    ]
+}
+```
+```json
+{
+    "sentence": "The Night Watch, Rembrandt - 1642 - 363x437cm - oil on canvas",
+    "entities": [
+        (18, 27, "ARTIST"),
+        (2, 16, "ART_TITLE"),
+        (30, 34, "DATE"),
+        (37, 45, "DIMENSION"),
+        (48, 62, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo - 'The Two Fridas' - oil on canvas - 173x173cm - 1939",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 29, "ART_TITLE"),
+        (32, 46, "MEDIUM"),
+        (49, 57, "DIMENSION"),
+        (60, 64, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo - 1504 - marble - 'David' - 517cm",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 19, "DATE"),
+        (22, 28, "MEDIUM"),
+        (31, 38, "ART_TITLE"),
+        (41, 46, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollock - 'No. 5, 1948' - 1948 - 8x4ft - oil on fiberboard",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 30, "ART_TITLE"),
+        (33, 37, "DATE"),
+        (40, 45, "DIMENSION"),
+        (48, 65, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Andy Warhol - 'Campbell's Soup Cans' - 1962 - 51x41cm - synthetic polymer paint",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 36, "ART_TITLE"),
+        (39, 43, "DATE"),
+        (46, 53, "DIMENSION"),
+        (56, 81, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keefe - 'Red Canna' - 1924 - 36x20in - oil on canvas",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 28, "ART_TITLE"),
+        (31, 35, "DATE"),
+        (38, 45, "DIMENSION"),
+        (48, 62, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse - 'The Dance' - 1910 - oil on canvas - 260x391cm",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 26, "ART_TITLE"),
+        (29, 33, "DATE"),
+        (36, 50, "MEDIUM"),
+        (53, 62, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch - 1893 - 'The Scream' - 91x73.5cm - oil, tempera, pastel on cardboard",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 19, "DATE"),
+        (22, 34, "ART_TITLE"),
+        (37, 46, "DIMENSION"),
+        (49, 82, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer - 'Girl with a Pearl Earring' - oil on canvas - 1665 - 44.5x39cm",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 47, "ART_TITLE"),
+        (50, 64, "MEDIUM"),
+        (67, 71, "DATE"),
+        (74, 83, "DIMENSION")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimt - 'The Kiss' - 1908 - 180x180cm - oil on canvas",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 24, "ART_TITLE"),
+        (27, 31, "DATE"),
+        (34, 43, "DIMENSION"),
+        (46, 60, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Leonardo da Vinci - 'The Last Supper' - 1498 - 460x880cm - tempera on gesso",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 35, "ART_TITLE"),
+        (38, 42, "DATE"),
+        (45, 54, "DIMENSION"),
+        (57, 72, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rene Magritte - 'The Son of Man' - 1964 - 116x89cm - oil on canvas",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 32, "ART_TITLE"),
+        (35, 39, "DATE"),
+        (42, 49, "DIMENSION"),
+        (52, 66, "MEDIUM")
+    ]
+}
+```
+{"sentence": "Oil on canvas - 'The Persistence of Memory' by Salvadoor Dali; 24 x 33 cm - 1931", "entities": [(46, 60, "ARTIST"), (64, 68, "DATE"), (14, 39, "ART_TITLE"), (0, 13, "MEDIUM"), (41, 51, "DIMENSION")]}
+{"sentence": "Vincent van Gogh - 'Starry Night' - 1889; 29x36 inches; oil on canvas", "entities": [(0, 15, "ARTIST"), (18, 31, "ART_TITLE"), (34, 38, "DATE"), (40, 52, "DIMENSION"), (54, 67, "MEDIUM")]}
+{"sentence": "'The Kiss' by Gustav Klimmt; 1908 - 180x180cm; oil on canvas", "entities": [(12, 25, "ARTIST"), (28, 32, "DATE"), (35, 43, "DIMENSION"), (45, 58, "MEDIUM"), (0, 9, "ART_TITLE")]}
+{"sentence": "Photograph by Annie Leibovitz; 'John Lennon and Yoko Ono' - 1980; 24x36 inches", "entities": [(15, 31, "ARTIST"), (34, 58, "ART_TITLE"), (61, 65, "DATE"), (67, 78, "DIMENSION"), (0, 10, "MEDIUM")]}
+{"sentence": "Leonardo da Vinnci - 'Mona Lisa'; oil on wood - 77x53 cm - 1503", "entities": [(0, 18, "ARTIST"), (21, 31, "ART_TITLE"), (34, 45, "MEDIUM"), (48, 56, "DIMENSION"), (59, 63, "DATE")]}
+{"sentence": "'Guernica' - Pabllo Picasso; oil on canvas; 349x776 cm; 1937", "entities": [(13, 27, "ARTIST"), (0, 9, "ART_TITLE"), (30, 43, "MEDIUM"), (46, 55, "DIMENSION"), (57, 61, "DATE")]}
+{"sentence": "Watercolor; 'The Great Wave off Kanagawa' by Katsushika Hokusai - 1831; 25x37 cm", "entities": [(47, 65, "ARTIST"), (12, 42, "ART_TITLE"), (68, 72, "DATE"), (74, 81, "DIMENSION"), (0, 10, "MEDIUM")]}
+{"sentence": "Marcel Duchamp's 'Fountain' - 1917; porcelain urinal; 60x48x35 cm", "entities": [(0, 15, "ARTIST"), (17, 26, "ART_TITLE"), (29, 33, "DATE"), (36, 52, "MEDIUM"), (54, 64, "DIMENSION")]}
+{"sentence": "Acrylic on canvas - 'Campbell's Soup Cans' by Andy Warhol; 1962; 20x16 in", "entities": [(45, 56, "ARTIST"), (0, 18, "MEDIUM"), (21, 44, "ART_TITLE"), (58, 62, "DATE"), (64, 72, "DIMENSION")]}
+{"sentence": "Johannes Vermeer - 'Girl with a Pearl Earring'; oil on canvas - 1665; 44x39cm", "entities": [(0, 16, "ARTIST"), (19, 45, "ART_TITLE"), (48, 61, "MEDIUM"), (64, 68, "DATE"), (70, 77, "DIMENSION")]}
+{"sentence": "'The Birth of Venus' by Sandro Botticelli; 1486 - tempera on canvas; 172x278cm", "entities": [(25, 42, "ARTIST"), (0, 20, "ART_TITLE"), (45, 49, "DATE"), (52, 70, "MEDIUM"), (72, 80, "DIMENSION")]}
+{"sentence": "Frida Kahlo - 'The Two Fridas'; oil on canvas - 1939; 173x173 cm", "entities": [(0, 11, "ARTIST"), (14, 29, "ART_TITLE"), (32, 45, "MEDIUM"), (48, 52, "DATE"), (54, 62, "DIMENSION")]}
+{"sentence": "Tempera on panel; 'The Birth of Venus' - Sandro Botticelli; 1485; 172x278 cm", "entities": [(43, 60, "ARTIST"), (18, 38, "ART_TITLE"), (63, 67, "DATE"), (0, 16, "MEDIUM"), (69, 77, "DIMENSION")]}
+{"sentence": "Claude Monet's 'Water Lilies'; 1916 - oil on canvas; 200x180cm", "entities": [(0, 12, "ARTIST"), (14, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 50, "MEDIUM"), (52, 60, "DIMENSION")]}
+{"sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon'; 1907 - oil on canvas; 243x233 cm", "entities": [(0, 13, "ARTIST"), (16, 44, "ART_TITLE"), (47, 51, "DATE"), (54, 67, "MEDIUM"), (69, 78, "DIMENSION")]}
+{"sentence": "Oil on canvas; 'American Gothic' by Grant Wood; 1930; 78x65 cm", "entities": [(38, 48, "ARTIST"), (15, 31, "ART_TITLE"), (51, 55, "DATE"), (57, 65, "DIMENSION"), (0, 13, "MEDIUM")]}
+{"sentence": "'The Night Watch' by Rembrandt; 1642; oil on canvas - 363x437 cm", "entities": [(22, 31, "ARTIST"), (0, 17, "ART_TITLE"), (34, 38, "DATE"), (41, 54, "MEDIUM"), (57, 66, "DIMENSION")]}
+{"sentence": "Edvard Munch - 'The Scream'; 1893 - tempera on cardboard; 91x73.5 cm", "entities": [(0, 12, "ARTIST"), (15, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 58, "MEDIUM"), (60, 69, "DIMENSION")]}
+{"sentence": "Acrylic on canvas; 'No. 5, 1948' by Jackson Pollock; 1948; 243.8x121.9cm", "entities": [(43, 58, "ARTIST"), (19, 30, "ART_TITLE"), (61, 65, "DATE"), (67, 80, "DIMENSION"), (0, 17, "MEDIUM")]}
+{"sentence": "'The Last Supper' by Leonardo da Vinci; tempera on gesso; 1498; 460x880 cm", "entities": [(23, 41, "ARTIST"), (0, 16, "ART_TITLE"), (44, 61, "MEDIUM"), (64, 68, "DATE"), (70, 79, "DIMENSION")]}
+{"sentence": "Michelangelo's 'David'; marble sculpture - 1504; 517 cm tall", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (25, 42, "MEDIUM"), (45, 49, "DATE"), (51, 61, "DIMENSION")]}
+{"sentence": "Tempera on wood; 'The Arnolfini Portrait' - Jan van Eyck; 1434; 82x60 cm", "entities": [(44, 55, "ARTIST"), (17, 39, "ART_TITLE"), (58, 62, "DATE"), (64, 71, "DIMENSION"), (0, 15, "MEDIUM")]}
+{"sentence": "'The Creation of Adam' by Michelangelo; fresco - 1512; 280x570 cm", "entities": [(27, 39, "ARTIST"), (0, 23, "ART_TITLE"), (42, 48, "MEDIUM"), (51, 55, "DATE"), (57, 66, "DIMENSION")]}
+{"sentence": "Henri Matisse - 'The Dance'; 1910; oil on canvas - 260x391 cm", "entities": [(0, 13, "ARTIST"), (16, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 50, "MEDIUM"), (53, 62, "DIMENSION")]}
+{"sentence": "Gustav Klimt's 'The Tree of Life'; 1909 - oil on canvas; 195x102 cm", "entities": [(0, 13, "ARTIST"), (16, 32, "ART_TITLE"), (35, 39, "DATE"), (42, 55, "MEDIUM"), (57, 66, "DIMENSION")]}
+{"sentence": "Oil on canvas; 'The Starry Night' by Vincent van Gogh; 1889; 73.7x92.1 cm", "entities": [(39, 55, "ARTIST"), (15, 32, "ART_TITLE"), (58, 62, "DATE"), (64, 74, "DIMENSION"), (0, 13, "MEDIUM")]}
+{"sentence": "'The Persistence of Memory' - Salvador Dali; 1931; oil on canvas; 24x33 cm", "entities": [(29, 42, "ARTIST"), (0, 27, "ART_TITLE"), (45, 49, "DATE"), (52, 65, "MEDIUM"), (67, 75, "DIMENSION")]}
+{"sentence": "The masterpiece 'Starry Nite' - by Vangogh, 1889; oil on canvas, 29x36 inches", "entities": [(19, 30, "ART_TITLE"), (35, 42, "ARTIST"), (44, 48, "DATE"), (50, 63, "MEDIUM"), (65, 76, "DIMENSION")]}
+{"sentence": "In 1503, Leonardo daVinci's 'Mona Lisa' - oil on wood panel, 77x53cm.", "entities": [(3, 7, "DATE"), (9, 24, "ARTIST"), (26, 36, "ART_TITLE"), (39, 54, "MEDIUM"), (56, 62, "DIMENSION")]}
+{"sentence": "Canvas; 1882 - 'Impression, Sunrise' by Claude Monet, 48x63 cm", "entities": [(0, 6, "MEDIUM"), (8, 12, "DATE"), (15, 35, "ART_TITLE"), (39, 51, "ARTIST"), (53, 60, "DIMENSION")]}
+{"sentence": "'The Kiss' - Gustav Klimmt, 1907; oil and gold leaf on canvas, 180 x 180 cm", "entities": [(0, 9, "ART_TITLE"), (12, 25, "ARTIST"), (27, 31, "DATE"), (33, 58, "MEDIUM"), (60, 71, "DIMENSION")]}
+{"sentence": "Pablo Piccaso's 'Guernica', 1937 - oil on canvas; 349x776 cm", "entities": [(0, 13, "ARTIST"), (16, 24, "ART_TITLE"), (26, 30, "DATE"), (33, 46, "MEDIUM"), (48, 56, "DIMENSION")]}
+{"sentence": "Watercolor on paper, 'The Great Wave off Kanagawa' by Hokusai, 1831; 25x37cm", "entities": [(0, 19, "MEDIUM"), (21, 51, "ART_TITLE"), (55, 62, "ARTIST"), (64, 68, "DATE"), (70, 77, "DIMENSION")]}
+{"sentence": "In 1931, Salvador Dali's 'The Persistence of Memory'; oil on canvas, 24x33cm.", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (24, 48, "ART_TITLE"), (51, 64, "MEDIUM"), (66, 73, "DIMENSION")]}
+{"sentence": "'Girl with a Pearl Earring' by Jan Vermeer, 1665 - oil on canvas, 44.5 x 39cm", "entities": [(0, 27, "ART_TITLE"), (31, 41, "ARTIST"), (43, 47, "DATE"), (50, 63, "MEDIUM"), (65, 75, "DIMENSION")]}
+{"sentence": "The Scream by Edvard Munch, tempera and crayon on cardboard, 1893; 91x73.5 cm", "entities": [(0, 10, "ART_TITLE"), (14, 27, "ARTIST"), (29, 57, "MEDIUM"), (59, 63, "DATE"), (65, 74, "DIMENSION")]}
+{"sentence": "Tempera on panel; 'The Birth of Venus' by Botticelli, 1486 - 172.5x278.5 cm", "entities": [(0, 16, "MEDIUM"), (18, 38, "ART_TITLE"), (42, 52, "ARTIST"), (54, 58, "DATE"), (61, 73, "DIMENSION")]}
+{"sentence": "Vincent van Gogh's 'Starry Night', 1889; oil on canvas - 73.7 x 92.1 cm", "entities": [(0, 16, "ARTIST"), (19, 32, "ART_TITLE"), (34, 38, "DATE"), (40, 53, "MEDIUM"), (56, 68, "DIMENSION")]}
+{"sentence": "'The Night Watch' - Rembrandt, 1642; oil on canvas, 363x437cm", "entities": [(0, 16, "ART_TITLE"), (19, 28, "ARTIST"), (30, 34, "DATE"), (36, 49, "MEDIUM"), (51, 59, "DIMENSION")]}
+{"sentence": "Oil on wood; 'The Arnolfini Portrait' by Jan van Eyk, 1434, 82x60cm", "entities": [(0, 11, "MEDIUM"), (13, 36, "ART_TITLE"), (40, 51, "ARTIST"), (53, 57, "DATE"), (59, 66, "DIMENSION")]}
+{"sentence": "Michelangelo's 'David', 1504; marble sculpture, 517 cm tall", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (24, 28, "DATE"), (30, 47, "MEDIUM"), (49, 59, "DIMENSION")]}
+{"sentence": "Acrylic on canvas - 'Campbell's Soup Cans' by Andy Warhol, 1962, 51x41 cm", "entities": [(0, 18, "MEDIUM"), (21, 43, "ART_TITLE"), (47, 58, "ARTIST"), (60, 64, "DATE"), (66, 73, "DIMENSION")]}
+{"sentence": "Frida Kahlo's 'The Two Fridas', 1939; oil on canvas, 173x173 cm", "entities": [(0, 11, "ARTIST"), (14, 29, "ART_TITLE"), (31, 35, "DATE"), (37, 50, "MEDIUM"), (52, 61, "DIMENSION")]}
+{"sentence": "In 1907, Pablo Picasso's 'Les Demoiselles d'Avignon' - oil on canvas, 243.9x233.7 cm", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (25, 53, "ART_TITLE"), (56, 69, "MEDIUM"), (71, 83, "DIMENSION")]}
+{"sentence": "'The Last Supper' by Leonardo da Vinci, 1498; tempera on gesso, 460x880 cm", "entities": [(0, 16, "ART_TITLE"), (20, 37, "ARTIST"), (39, 43, "DATE"), (45, 61, "MEDIUM"), (63, 72, "DIMENSION")]}
+{"sentence": "Johannes Vermeer, 'The Milkmaid' - 1658; oil on canvas, 45.5x41cm", "entities": [(0, 16, "ARTIST"), (18, 31, "ART_TITLE"), (34, 38, "DATE"), (40, 53, "MEDIUM"), (55, 63, "DIMENSION")]}
+{"sentence": "In 1893, Edvard Munch's 'The Scream'; oil, tempera, and pastel on cardboard, 91x73.5 cm", "entities": [(3, 7, "DATE"), (9, 22, "ARTIST"), (25, 35, "ART_TITLE"), (38, 73, "MEDIUM"), (75, 84, "DIMENSION")]}
+{"sentence": "Henri Matisse's 'The Dance', 1910 - oil on canvas; 260x391 cm", "entities": [(0, 14, "ARTIST"), (17, 27, "ART_TITLE"), (29, 33, "DATE"), (36, 49, "MEDIUM"), (51, 60, "DIMENSION")]}
+{"sentence": "'The Persistence of Memory' by Salvador Dali, 1931; oil on canvas, 24x33cm", "entities": [(0, 27, "ART_TITLE"), (31, 44, "ARTIST"), (46, 50, "DATE"), (52, 65, "MEDIUM"), (67, 74, "DIMENSION")]}
+{"sentence": "Gustav Klimt's 'The Kiss', 1908; oil and gold leaf on canvas, 180x180cm", "entities": [(0, 13, "ARTIST"), (16, 24, "ART_TITLE"), (26, 30, "DATE"), (32, 58, "MEDIUM"), (60, 68, "DIMENSION")]}
+{"sentence": "Marcel Duchamp, 'Fountain' - 1917; porcelain urinal, 60x48x35 cm", "entities": [(0, 15, "ARTIST"), (17, 26, "ART_TITLE"), (29, 33, "DATE"), (35, 52, "MEDIUM"), (54, 64, "DIMENSION")]}
+{"sentence": "Raphael's 'School of Athens', 1511 - fresco, 500x770 cm", "entities": [(0, 7, "ARTIST"), (10, 28, "ART_TITLE"), (30, 34, "DATE"), (37, 44, "MEDIUM"), (46, 54, "DIMENSION")]}
+{"sentence": "Georges Seurat, 'A Sunday Afternoon on the Island of La Grande Jatte' - 1886; oil on canvas, 207.6x308 cm", "entities": [(0, 14, "ARTIST"), (16, 67, "ART_TITLE"), (70, 74, "DATE"), (76, 89, "MEDIUM"), (91, 102, "DIMENSION")]}
+```json
+{
+    "sentence": "Vincent van Gohg - 'Starry Night' - canvas and oil, 73cm x 92cm - created in 1889.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 30, "ART_TITLE"),
+        (33, 46, "MEDIUM"),
+        (48, 60, "DIMENSION"),
+        (74, 78, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "The 'Last Supper' by Leonardo da Vici - tempera on gesso - 460x880cm - 1498.",
+    "entities": [
+        (5, 16, "ART_TITLE"),
+        (20, 36, "ARTIST"),
+        (39, 54, "MEDIUM"),
+        (57, 65, "DIMENSION"),
+        (68, 72, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccaso's 'Guernica'; oil on canvas - 349x776cm - 1937.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 25, "ART_TITLE"),
+        (28, 41, "MEDIUM"),
+        (44, 53, "DIMENSION"),
+        (56, 60, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Claude Mone - 'Water Lilies', oil paint on canvas - 200x180cm - 1916.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 28, "ART_TITLE"),
+        (30, 51, "MEDIUM"),
+        (54, 62, "DIMENSION"),
+        (65, 69, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "The 'Persistence of Memory' by Salvado Dali, oil on canvas; 24x33cm, 1931.",
+    "entities": [
+        (5, 28, "ART_TITLE"),
+        (32, 44, "ARTIST"),
+        (46, 59, "MEDIUM"),
+        (61, 68, "DIMENSION"),
+        (70, 74, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Rembrant's 'The Night Watch' - oil on canvas - 363x437cm - 1642.",
+    "entities": [
+        (0, 8, "ARTIST"),
+        (11, 27, "ART_TITLE"),
+        (30, 43, "MEDIUM"),
+        (46, 54, "DIMENSION"),
+        (57, 61, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Johannes Vermeer - 'Girl with a Pearl Earing'; oil on canvas - 44.5x39cm - 1665.",
+    "entities": [
+        (0, 16, "ARTIST"),
+        (19, 42, "ART_TITLE"),
+        (45, 58, "MEDIUM"),
+        (61, 70, "DIMENSION"),
+        (73, 77, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Frida Kahlo's 'The Two Fridas', oil on canvas - 173x173cm - 1939.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 28, "ART_TITLE"),
+        (31, 44, "MEDIUM"),
+        (47, 55, "DIMENSION"),
+        (58, 62, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edvard Munch - 'The Scream'; tempera on cardboard - 91x73cm - 1893.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 27, "ART_TITLE"),
+        (30, 50, "MEDIUM"),
+        (53, 60, "DIMENSION"),
+        (63, 67, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Gustav Klimmt, 'The Kiss' - oil and gold leaf on canvas; 180x180cm - 1908.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 24, "ART_TITLE"),
+        (27, 53, "MEDIUM"),
+        (56, 64, "DIMENSION"),
+        (67, 71, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georges Suerat - 'A Sunday Afternoon on the Island of La Grande Jatte'; oil on canvas - 207.6x308cm - 1884.",
+    "entities": [
+        (0, 14, "ARTIST"),
+        (17, 66, "ART_TITLE"),
+        (69, 82, "MEDIUM"),
+        (85, 95, "DIMENSION"),
+        (98, 102, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Andy Warhol - 'Marilyn Diptych', acrylic on canvas - 205x289cm - 1962.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 30, "ART_TITLE"),
+        (33, 50, "MEDIUM"),
+        (53, 61, "DIMENSION"),
+        (64, 68, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Henri Matisse - 'The Dance'; oil on canvas - 260x391cm, 1910.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 26, "ART_TITLE"),
+        (29, 42, "MEDIUM"),
+        (45, 53, "DIMENSION"),
+        (55, 59, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Michelangelo's 'David' - marble sculpture - height: 517cm - 1504.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 20, "ART_TITLE"),
+        (23, 40, "MEDIUM"),
+        (43, 56, "DIMENSION"),
+        (59, 63, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jackson Pollok - 'No. 5, 1948'; oil on fiberboard - 243.8x121.9cm - 1948.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 30, "ART_TITLE"),
+        (33, 50, "MEDIUM"),
+        (53, 66, "DIMENSION"),
+        (69, 73, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Salvador Dali - 'The Elephants'; oil on canvas - 49x60cm - 1948.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 31, "ART_TITLE"),
+        (34, 47, "MEDIUM"),
+        (50, 57, "DIMENSION"),
+        (60, 64, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Caravaggio's 'The Calling of St Matthew', oil on canvas - 322x340cm - 1600.",
+    "entities": [
+        (0, 10, "ARTIST"),
+        (13, 38, "ART_TITLE"),
+        (41, 54, "MEDIUM"),
+        (57, 65, "DIMENSION"),
+        (68, 72, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Georgia O'Keefe - 'Black Iris' - oil on canvas; 36x29cm - 1926.",
+    "entities": [
+        (0, 15, "ARTIST"),
+        (18, 29, "ART_TITLE"),
+        (32, 45, "MEDIUM"),
+        (48, 55, "DIMENSION"),
+        (58, 62, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Raphael - 'The School of Athens'; fresco - 500x770cm - 1511.",
+    "entities": [
+        (0, 7, "ARTIST"),
+        (10, 30, "ART_TITLE"),
+        (33, 39, "MEDIUM"),
+        (42, 50, "DIMENSION"),
+        (53, 57, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Paul Cezanne - 'The Card Players', oil on canvas - 97x130cm - 1895.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 32, "ART_TITLE"),
+        (35, 48, "MEDIUM"),
+        (51, 59, "DIMENSION"),
+        (62, 66, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Diego Rivera - 'Man at the Crossroads'; fresco - 480x1140cm - 1934.",
+    "entities": [
+        (0, 12, "ARTIST"),
+        (15, 36, "ART_TITLE"),
+        (39, 45, "MEDIUM"),
+        (48, 57, "DIMENSION"),
+        (60, 64, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Edgar Degas - 'The Ballet Class'; oil on canvas - 85x75cm - 1874.",
+    "entities": [
+        (0, 11, "ARTIST"),
+        (14, 31, "ART_TITLE"),
+        (34, 47, "MEDIUM"),
+        (50, 57, "DIMENSION"),
+        (60, 64, "DATE")
+    ]
+}
+```
+```json
+{
+    "sentence": "Jean-Michel Basquiat's 'Untitled'; acrylic on canvas - 183x173cm - 1981.",
+    "entities": [
+        (0, 20, "ARTIST"),
+        (23, 31, "ART_TITLE"),
+        (34, 51, "MEDIUM"),
+        (54, 62, "DIMENSION"),
+        (65, 69, "DATE")
+    ]
+}
+```
+{"sentence": "Acrylic on canvas - 'The Starry Night' by Vncent van Gogh; 73x92 cm - 1889", "entities": [(38, 54, "ARTIST"), (0, 17, "MEDIUM"), (20, 36, "ART_TITLE"), (57, 65, "DIMENSION"), (68, 72, "DATE")]}
+{"sentence": "Pablo Picaso's masterpiece, oil on canvas, 'Guernica' - 349x776 cm - 1937", "entities": [(0, 13, "ARTIST"), (42, 50, "MEDIUM"), (52, 61, "ART_TITLE"), (64, 73, "DIMENSION"), (76, 80, "DATE")]}
+{"sentence": "'The Persistence of Memory' - 24x33 cm; painted by Salvadore Dali, 1931, oil on canvas.", "entities": [(0, 26, "ART_TITLE"), (29, 36, "DIMENSION"), (50, 64, "ARTIST"), (66, 70, "DATE"), (72, 86, "MEDIUM")]}
+{"sentence": "Leonardo da Vinci - 'Mona Lisa'; 77x53 cm - oil on wood, 1503", "entities": [(0, 16, "ARTIST"), (19, 28, "ART_TITLE"), (31, 39, "DIMENSION"), (42, 53, "MEDIUM"), (55, 59, "DATE")]}
+{"sentence": "Watercolor on paper; 'The Great Wave off Kanagawa' - 25x37 cm - by Katsushika Hokusai, 1831", "entities": [(0, 18, "MEDIUM"), (21, 51, "ART_TITLE"), (54, 61, "DIMENSION"), (66, 85, "ARTIST"), (87, 91, "DATE")]}
+{"sentence": "'The Kiss' - Gustav Klimmt; 1908; 180x180 cm - oil on canvas", "entities": [(0, 9, "ART_TITLE"), (12, 25, "ARTIST"), (28, 32, "DATE"), (34, 43, "DIMENSION"), (46, 59, "MEDIUM")]}
+{"sentence": "Marcel Duchamp's 'Nude Descending a Staircase, No. 2' - 1912 - 58x35 in - oil on canvas", "entities": [(0, 15, "ARTIST"), (17, 52, "ART_TITLE"), (55, 59, "DATE"), (62, 69, "DIMENSION"), (72, 85, "MEDIUM")]}
+{"sentence": "Oil on panel - 'Garden of Earthly Delights' by Hieronimus Bosch; 220x389 cm - 1500", "entities": [(0, 13, "MEDIUM"), (16, 46, "ART_TITLE"), (50, 66, "ARTIST"), (69, 78, "DIMENSION"), (81, 85, "DATE")]}
+{"sentence": "Edvard Munch; 'The Scream' - 1893 - 91x73 cm; tempera on cardboard", "entities": [(0, 12, "ARTIST"), (14, 26, "ART_TITLE"), (29, 33, "DATE"), (36, 43, "DIMENSION"), (46, 65, "MEDIUM")]}
+{"sentence": "'Impression, Sunrise' - Claude Monet - 1872; 48x63 cm, oil on canvas", "entities": [(0, 20, "ART_TITLE"), (23, 35, "ARTIST"), (38, 42, "DATE"), (44, 51, "DIMENSION"), (53, 66, "MEDIUM")]}
+{"sentence": "Tempera on wood; 'The Birth of Venus' by Sandro Botticelli - 1486 - 172.5x278.5 cm", "entities": [(0, 15, "MEDIUM"), (18, 37, "ART_TITLE"), (41, 58, "ARTIST"), (61, 65, "DATE"), (68, 81, "DIMENSION")]}
+{"sentence": "Vincent van Goh - 'Cafe Terrace at Night'; 1888; 80x65 cm - oil on canvas", "entities": [(0, 15, "ARTIST"), (18, 39, "ART_TITLE"), (42, 46, "DATE"), (49, 56, "DIMENSION"), (59, 72, "MEDIUM")]}
+{"sentence": "'Girl with a Pearl Earring' by Johannes Vermeer - 1665; 44.5x39 cm - oil on canvas", "entities": [(0, 27, "ART_TITLE"), (31, 48, "ARTIST"), (51, 55, "DATE"), (57, 66, "DIMENSION"), (69, 82, "MEDIUM")]}
+{"sentence": "Oil on canvas - 'American Gothic' - 1930; 78x65 cm; by Grant Wood", "entities": [(0, 13, "MEDIUM"), (16, 32, "ART_TITLE"), (35, 39, "DATE"), (42, 49, "DIMENSION"), (54, 64, "ARTIST")]}
+{"sentence": "Frida Kahlo's 'The Two Fridas' - 1939 - 173x173 cm; oil on canvas", "entities": [(0, 11, "ARTIST"), (13, 29, "ART_TITLE"), (32, 36, "DATE"), (39, 48, "DIMENSION"), (51, 64, "MEDIUM")]}
+{"sentence": "'The Night Watch' - Rembrandt van Rijn; oil on canvas; 1642; 363x437 cm", "entities": [(0, 16, "ART_TITLE"), (19, 37, "ARTIST"), (40, 53, "MEDIUM"), (56, 60, "DATE"), (63, 72, "DIMENSION")]}
+{"sentence": "Acrylic on canvas - 'Campbell's Soup Cans' by Andy Warhol, 1962; 51x41 cm", "entities": [(0, 17, "MEDIUM"), (20, 43, "ART_TITLE"), (47, 58, "ARTIST"), (60, 64, "DATE"), (67, 74, "DIMENSION")]}
+{"sentence": "Michelangelo - 'David'; 1504; marble; 517 cm tall", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (25, 29, "DATE"), (31, 37, "MEDIUM"), (39, 48, "DIMENSION")]}
+{"sentence": "'The Arnolfini Portrait' by Jan van Eyck; 1434; 82x60 cm - oil on oak", "entities": [(0, 23, "ART_TITLE"), (27, 39, "ARTIST"), (42, 46, "DATE"), (49, 56, "DIMENSION"), (59, 69, "MEDIUM")]}
+{"sentence": "Tempera on panel - 'Primavera' by Sandro Botticelli; 1482 - 203x314 cm", "entities": [(0, 16, "MEDIUM"), (19, 29, "ART_TITLE"), (33, 50, "ARTIST"), (52, 56, "DATE"), (59, 68, "DIMENSION")]}
+{"sentence": "Georges Seurat - 'A Sunday Afternoon on the Island of La Grande Jatte'; 1884; 207x308 cm; oil on canvas", "entities": [(0, 14, "ARTIST"), (17, 65, "ART_TITLE"), (68, 72, "DATE"), (75, 84, "DIMENSION"), (87, 100, "MEDIUM")]}
+{"sentence": "Oil on canvas; 1889 - 'The Starry Night' by Vncent van Gogh; 73x92 cm", "entities": [(0, 13, "MEDIUM"), (16, 20, "DATE"), (23, 39, "ART_TITLE"), (43, 59, "ARTIST"), (62, 69, "DIMENSION")]}
+{"sentence": "Pablo Picasso's 'Les Demoiselles d'Avignon' - 1907; oil on canvas; 243.9x233.7 cm", "entities": [(0, 13, "ARTIST"), (15, 44, "ART_TITLE"), (47, 51, "DATE"), (53, 66, "MEDIUM"), (69, 81, "DIMENSION")]}
+{"sentence": "'The Creation of Adam' by Michelangelo; 1512 - fresco; 280x570 cm", "entities": [(0, 23, "ART_TITLE"), (27, 39, "ARTIST"), (41, 45, "DATE"), (48, 54, "MEDIUM"), (57, 66, "DIMENSION")]}
+{"sentence": "Johannes Vermeer - 'The Milkmaid'; 1658; 45.5x41 cm; oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 32, "ART_TITLE"), (35, 39, "DATE"), (42, 51, "DIMENSION"), (54, 67, "MEDIUM")]}
+{"sentence": "Henri Matisse's 'The Dance' - 1910 - 260x391 cm; oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 25, "ART_TITLE"), (28, 32, "DATE"), (35, 44, "DIMENSION"), (47, 60, "MEDIUM")]}
+{"sentence": "Canvas - 1889 - 'Starry Nite' by Van Goh; 29x36 in.", "entities": [(36, 43, "ARTIST"), (10, 14, "DATE"), (16, 27, "ART_TITLE"), (0, 6, "MEDIUM"), (45, 52, "DIMENSION")]}
+{"sentence": "Pablo Picaso - 'Guernica' - 1937; Oil on canvas; 349x776cm", "entities": [(0, 12, "ARTIST"), (15, 24, "ART_TITLE"), (27, 31, "DATE"), (33, 47, "MEDIUM"), (49, 57, "DIMENSION")]}
+{"sentence": "Watercolor; 'The Great Wave off Kanagawa' - 1831; 25x37cm - Hokusai", "entities": [(57, 64, "ARTIST"), (43, 47, "DATE"), (12, 41, "ART_TITLE"), (0, 10, "MEDIUM"), (49, 56, "DIMENSION")]}
+{"sentence": "'The Persistence of Memory' by Salvador Dali - 1931; 24x33cm - oil paint", "entities": [(33, 46, "ARTIST"), (49, 53, "DATE"), (0, 28, "ART_TITLE"), (56, 63, "DIMENSION"), (66, 76, "MEDIUM")]}
+{"sentence": "Acrylic on canvas - 1962 - 'Marilyn Diptych'; 205x144cm - And Warhol", "entities": [(58, 68, "ARTIST"), (19, 23, "DATE"), (26, 42, "ART_TITLE"), (0, 17, "MEDIUM"), (44, 52, "DIMENSION")]}
+{"sentence": "Leonardo da Venci - 1503 - Oil on panel - 77x53 cm - 'Mona Lisa'", "entities": [(0, 17, "ARTIST"), (20, 24, "DATE"), (27, 39, "MEDIUM"), (42, 49, "DIMENSION"), (52, 62, "ART_TITLE")]}
+{"sentence": "Vincent van Gogh - 'The Starry Night'; 1889 - Oil on canvas - 73x92cm", "entities": [(0, 16, "ARTIST"), (19, 36, "ART_TITLE"), (39, 43, "DATE"), (46, 60, "MEDIUM"), (63, 69, "DIMENSION")]}
+{"sentence": "'The Birth of Venus' by Sandro Botticeli - 1486; Tempera on canvas - 172x278 cm", "entities": [(26, 42, "ARTIST"), (45, 49, "DATE"), (0, 19, "ART_TITLE"), (52, 69, "MEDIUM"), (72, 81, "DIMENSION")]}
+{"sentence": "Charcoal drawing - 'The Scream' - 1893 - 91x73cm; Edvard Munch", "entities": [(55, 67, "ARTIST"), (36, 40, "DATE"), (19, 30, "ART_TITLE"), (0, 16, "MEDIUM"), (43, 50, "DIMENSION")]}
+{"sentence": "Rembrant - 'The Night Watch'; 1642 - 363x437 cm - Oil on canvas", "entities": [(0, 8, "ARTIST"), (11, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 46, "DIMENSION"), (49, 63, "MEDIUM")]}
+{"sentence": "Michelangelo - Fresco - 'The Creation of Adam'; 1512 - 280x570cm", "entities": [(0, 12, "ARTIST"), (15, 21, "MEDIUM"), (24, 45, "ART_TITLE"), (48, 52, "DATE"), (55, 63, "DIMENSION")]}
+{"sentence": "'Girl with a Pearl Earring' - Jan Vermeer - 1665; Oil on canvas; 44.5x39cm", "entities": [(30, 41, "ARTIST"), (44, 48, "DATE"), (0, 27, "ART_TITLE"), (51, 65, "MEDIUM"), (68, 76, "DIMENSION")]}
+{"sentence": "Claude Monet - 1872 - 'Impression, Sunrise'; Oil on canvas - 48x63 cm", "entities": [(0, 12, "ARTIST"), (15, 19, "DATE"), (22, 42, "ART_TITLE"), (45, 59, "MEDIUM"), (62, 70, "DIMENSION")]}
+{"sentence": "Pastel on paper - 'The Blue Rider' by Vassily Kandinsky; 1903 - 55x65cm", "entities": [(42, 59, "ARTIST"), (62, 66, "DATE"), (17, 33, "ART_TITLE"), (0, 15, "MEDIUM"), (69, 75, "DIMENSION")]}
+{"sentence": "1888 - Vincent van Goh - Oil on canvas - 'Cafe Terrace at Night'; 80x65 cm", "entities": [(7, 22, "ARTIST"), (0, 4, "DATE"), (25, 39, "MEDIUM"), (42, 64, "ART_TITLE"), (67, 74, "DIMENSION")]}
+{"sentence": "Pablo Picasso - 'Les Demoiselles d'Avignon' - 1907; 243x234cm - Oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 44, "ART_TITLE"), (47, 51, "DATE"), (54, 62, "DIMENSION"), (65, 79, "MEDIUM")]}
+{"sentence": "'American Gothic' by Grant Wood - Oil on beord - 1930 - 74x62cm", "entities": [(25, 35, "ARTIST"), (0, 16, "ART_TITLE"), (38, 51, "MEDIUM"), (54, 58, "DATE"), (61, 68, "DIMENSION")]}
+{"sentence": "Tempera on panel - Sandro Botticelli - 1485 - 'Primavera'; 203x314 cm", "entities": [(18, 35, "ARTIST"), (38, 42, "DATE"), (45, 55, "ART_TITLE"), (0, 16, "MEDIUM"), (58, 67, "DIMENSION")]}
+{"sentence": "Johannes Vermeer - 'The Milkmaid'; 1658 - 45.5x41cm - Oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 49, "DIMENSION"), (52, 66, "MEDIUM")]}
+{"sentence": "Oil on canvas - 'The Kiss' - Gustav Klimt; 1908 - 180x180cm", "entities": [(31, 43, "ARTIST"), (46, 50, "DATE"), (15, 24, "ART_TITLE"), (0, 14, "MEDIUM"), (53, 61, "DIMENSION")]}
+{"sentence": "Edvard Munch - 'The Skriek'; 1893 - 91x73cm - Tempera on cardboard", "entities": [(0, 12, "ARTIST"), (15, 26, "ART_TITLE"), (29, 33, "DATE"), (36, 43, "DIMENSION"), (46, 67, "MEDIUM")]}
+{"sentence": "'The Arnolfini Portrait' by Jan van Eyck; 1434 - 82x60cm - Oil on oak panel", "entities": [(29, 40, "ARTIST"), (43, 47, "DATE"), (0, 24, "ART_TITLE"), (50, 57, "DIMENSION"), (60, 76, "MEDIUM")]}
+{"sentence": "Frida Kahlo - 'The Two Fridas' - 1939; Oil on canvas - 173x173 cm", "entities": [(0, 11, "ARTIST"), (14, 29, "ART_TITLE"), (32, 36, "DATE"), (39, 53, "MEDIUM"), (56, 65, "DIMENSION")]}
+{"sentence": "Oil on canvas - 'The Last Supper' - Leonardo da Vinci - 1498; 460x880cm", "entities": [(0, 14, "MEDIUM"), (17, 33, "ART_TITLE"), (36, 53, "ARTIST"), (56, 60, "DATE"), (63, 71, "DIMENSION")]}
+{"sentence": "Georgia O'Keeffe - 'Red Canna' - 1924; 36x20 in - Oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 46, "DIMENSION"), (49, 63, "MEDIUM")]}
+{"sentence": "Henri Matisse - 1909 - 'The Dance'; 260x391cm - Oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 20, "DATE"), (23, 33, "ART_TITLE"), (36, 44, "DIMENSION"), (47, 61, "MEDIUM")]}
+{"sentence": "'The Night Cafe' - Vincent van Gogh - Oil on canvas - 1888; 72x92cm", "entities": [(0, 15, "ART_TITLE"), (18, 34, "ARTIST"), (37, 51, "MEDIUM"), (54, 58, "DATE"), (61, 68, "DIMENSION")]}
+{"sentence": "Salvador Dali, 1931 - \"The Persistance of Memory\"; 9x13 inches - oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 19, "DATE"), (22, 48, "ART_TITLE"), (51, 61, "DIMENSION"), (64, 79, "MEDIUM")]}
+{"sentence": "\"Starry Night\" - oil on canavs; 1889 - 29x36in, Vincent vangogh", "entities": [(0, 13, "ART_TITLE"), (16, 29, "MEDIUM"), (32, 36, "DATE"), (39, 46, "DIMENSION"), (48, 62, "ARTIST")]}
+{"sentence": "Pablo Picaso - 1937; \"Guernica\" - 11ft x 25ft; oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 20, "DATE"), (23, 32, "ART_TITLE"), (35, 46, "DIMENSION"), (49, 63, "MEDIUM")]}
+{"sentence": "The Last Supper - 1498; 460x880 cm - tempera on stone; Leonardo da Vinchi", "entities": [(0, 14, "ART_TITLE"), (17, 21, "DATE"), (24, 34, "DIMENSION"), (37, 53, "MEDIUM"), (56, 73, "ARTIST")]}
+{"sentence": "Rembrant - \"The Night Watch\"; 1642 - 12ft by 14ft; oil on canvas", "entities": [(0, 8, "ARTIST"), (11, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 50, "DIMENSION"), (53, 67, "MEDIUM")]}
+{"sentence": "Claude Monet; 1906 - \"Water Lilies\" - 200x180 cm; oil on canvas", "entities": [(0, 12, "ARTIST"), (14, 18, "DATE"), (21, 35, "ART_TITLE"), (38, 48, "DIMENSION"), (51, 65, "MEDIUM")]}
+{"sentence": "\"The Scream\" - Edvard Munch; 1893; 91cm by 73cm - oil and pastel on cardboard", "entities": [(0, 12, "ART_TITLE"), (15, 28, "ARTIST"), (31, 35, "DATE"), (38, 50, "DIMENSION"), (53, 80, "MEDIUM")]}
+{"sentence": "Frida Kahlo; 1939 - \"The Two Fridas\"; 173x173cm - oil on canvas", "entities": [(0, 11, "ARTIST"), (13, 17, "DATE"), (20, 34, "ART_TITLE"), (37, 45, "DIMENSION"), (48, 62, "MEDIUM")]}
+{"sentence": "Michelangelo - \"David\"; marble; 1504 - 17ft tall", "entities": [(0, 12, "ARTIST"), (15, 22, "ART_TITLE"), (24, 30, "MEDIUM"), (33, 37, "DATE"), (40, 48, "DIMENSION")]}
+{"sentence": "\"Girl with a Pearl Earring\"; 1665 - Johannes Vermeer; 44.5cm x 39cm - oil on canvas", "entities": [(0, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 53, "ARTIST"), (56, 67, "DIMENSION"), (70, 84, "MEDIUM")]}
+{"sentence": "Georgia O'Keefe - \"Red Canna\"; 1924; 12in x 9in - oil on canvas", "entities": [(0, 15, "ARTIST"), (18, 28, "ART_TITLE"), (31, 35, "DATE"), (38, 47, "DIMENSION"), (50, 64, "MEDIUM")]}
+{"sentence": "\"The Kiss\" - Gustav Klimmt; 1907; 180x180cm - oil and gold leaf on canvas", "entities": [(0, 10, "ART_TITLE"), (13, 26, "ARTIST"), (29, 33, "DATE"), (36, 45, "DIMENSION"), (48, 76, "MEDIUM")]}
+{"sentence": "Jackson Pollock; \"No. 5, 1948\" - 1948; 8ft x 4ft - oil on fiberboard", "entities": [(0, 15, "ARTIST"), (18, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 50, "DIMENSION"), (53, 69, "MEDIUM")]}
+{"sentence": "Henri Matisse - \"The Dance\"; 1910; 260x391 cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (16, 27, "ART_TITLE"), (30, 34, "DATE"), (37, 47, "DIMENSION"), (50, 64, "MEDIUM")]}
+{"sentence": "\"American Gothic\"; Grant Wood - 1930; 78cm by 65cm - oil on beaverboard", "entities": [(0, 17, "ART_TITLE"), (19, 29, "ARTIST"), (32, 36, "DATE"), (39, 50, "DIMENSION"), (53, 72, "MEDIUM")]}
+{"sentence": "Leonardo da Vinci; \"Mona Lisa\"; 1503 - 77cm x 53cm; oil on wood", "entities": [(0, 17, "ARTIST"), (20, 30, "ART_TITLE"), (33, 37, "DATE"), (40, 50, "DIMENSION"), (53, 64, "MEDIUM")]}
+{"sentence": "Edvard Munch; 1893 - \"The Scream\" - 91cm x 73cm; oil and pastel on cardboard", "entities": [(0, 12, "ARTIST"), (14, 18, "DATE"), (21, 33, "ART_TITLE"), (36, 46, "DIMENSION"), (49, 76, "MEDIUM")]}
+{"sentence": "Vincent van Gogh - \"Starry Night\"; 1889; 73.7cm x 92.1cm - oil on canvas", "entities": [(0, 16, "ARTIST"), (19, 32, "ART_TITLE"), (35, 39, "DATE"), (42, 56, "DIMENSION"), (59, 73, "MEDIUM")]}
+{"sentence": "Paul Cezanne; \"The Basket of Apples\"; 1893; 65x80 cm - oil on canvas", "entities": [(0, 12, "ARTIST"), (15, 36, "ART_TITLE"), (39, 43, "DATE"), (46, 54, "DIMENSION"), (57, 71, "MEDIUM")]}
+{"sentence": "\"The Birth of Venus\"; Sandro Botticelli - 1486; 172.5cm x 278.9cm - tempera on canvas", "entities": [(0, 20, "ART_TITLE"), (23, 41, "ARTIST"), (44, 48, "DATE"), (51, 67, "DIMENSION"), (70, 87, "MEDIUM")]}
+{"sentence": "Diego Rivera; 1931 - \"The Flower Carrier\"; 121.9cm x 121.3cm - oil on masonite", "entities": [(0, 12, "ARTIST"), (14, 18, "DATE"), (21, 40, "ART_TITLE"), (43, 59, "DIMENSION"), (62, 77, "MEDIUM")]}
+{"sentence": "\"The Persistence of Memory\" - Salvador Dali; 1931; 24cm x 33cm - oil on canvas", "entities": [(0, 27, "ART_TITLE"), (30, 43, "ARTIST"), (46, 50, "DATE"), (53, 63, "DIMENSION"), (66, 80, "MEDIUM")]}
+{"sentence": "Raphael; \"The School of Athens\"; 1511; 500cm x 770cm - fresco", "entities": [(0, 7, "ARTIST"), (10, 31, "ART_TITLE"), (34, 38, "DATE"), (41, 52, "DIMENSION"), (55, 61, "MEDIUM")]}
+{"sentence": "Gustav Klimt - \"The Kiss\"; 1908; 180x180 cm - oil and gold leaf on canvas", "entities": [(0, 12, "ARTIST"), (15, 24, "ART_TITLE"), (27, 31, "DATE"), (34, 44, "DIMENSION"), (47, 75, "MEDIUM")]}
+{"sentence": "Pablo Picasso; 1907 - \"Les Demoiselles d'Avignon\"; 243.9cm x 233.7cm - oil on canvas", "entities": [(0, 13, "ARTIST"), (15, 19, "DATE"), (22, 50, "ART_TITLE"), (53, 69, "DIMENSION"), (72, 86, "MEDIUM")]}
+{"sentence": "\"The Night Watch\"; Rembrandt; 1642; 363cm x 437cm - oil on canvas", "entities": [(0, 17, "ART_TITLE"), (20, 29, "ARTIST"), (32, 36, "DATE"), (39, 51, "DIMENSION"), (54, 68, "MEDIUM")]}
+```json
+{
+    "sentence": "The Starry Night - vincent van Gohg; 1889 - 29x36 in; oil on canvas.",
+    "entities": [
+        (20, 36, "ARTIST"),
+        (38, 42, "DATE"),
+        (4, 18, "ART_TITLE"),
+        (44, 51, "DIMENSION"),
+        (53, 66, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Pablo Piccaso - 1937 - 'Guernica'; 11ft x 25ft - oil on canvas.",
+    "entities": [
+        (0, 13, "ARTIST"),
+        (16, 20, "DATE"),
+        (23, 32, "ART_TITLE"),
+        (34, 45, "DIMENSION"),
+        (48, 61, "MEDIUM")
+    ]
+}
+```
+```json
+{
+    "sentence": "Waterlilies - Claude Mone - 1916; 200x180cm - oil paint.",
+    "entities": [
+        (14, 26, "ARTIST"),
+        (29, 33, "DATE"),
+        (0, 11, "ART_TITLE"),
+        (35, 43, "DIMENSION"),
+        (46, 55, "MEDIUM")
+    ]
+}
+```

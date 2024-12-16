@@ -1,0 +1,5 @@
+{"sentence": "Canvas - 8x10in; 1889, Vincent van Goh 'Starry Night'", "entities": [(28, 43, "DATE"), (45, 59, "ARTIST"), (61, 73, "ART_TITLE"), (0, 6, "MEDIUM"), (9, 15, "DIMENSION")]}
+{"sentence": "The Persistence of Memory - oil on canvas; 9x13 inches - 1931; Salvador Dali", "entities": [(0, 26, "ART_TITLE"), (29, 43, "MEDIUM"), (46, 58, "DIMENSION"), (61, 65, "DATE"), (67, 80, "ARTIST")]}
+{"sentence": "Leonard da Vinci; 1503 - 'Mona Lisa' - oil on wood; 77cm x 53cm", "entities": [(0, 15, "ARTIST"), (17, 21, "DATE"), (24, 34, "ART_TITLE"), (37, 48, "MEDIUM"), (50, 62, "DIMENSION")]}
+{"sentence": "Pablo Piccasso - 'Guernica'; oil on canvas - 349x776cm, 1937", "entities": [(0, 15, "ARTIST"), (18, 27, "ART_TITLE"), (30, 44, "MEDIUM"), (47, 55, "DIMENSION"), (57, 61, "DATE")]}
+{"sentence": "Watercolor - 29x42cm; 1972, 'The Blue Nudes' by Henri Matisse", "entities": [(0, 10, "MEDIUM"), (13, 20, "DIMENSION"), (22, 26, "DATE"), (28, 42, "ART_TITLE"), (46, 59, "ARTIST")]}
